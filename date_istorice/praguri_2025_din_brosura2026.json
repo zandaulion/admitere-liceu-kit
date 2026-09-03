@@ -1,0 +1,3647 @@
+{
+ "101": {
+  "liceu": "COLEGIUL NAŢIONAL „SFÂNTUL SAVA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 5.0,
+  "locuri": 140.0,
+  "locuri_romi": 5.0,
+  "locuri_ces": 5.0,
+  "prag_2025": 9.72
+ },
+ "102": {
+  "liceu": "COLEGIUL NAŢIONAL „SFÂNTUL SAVA”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.82
+ },
+ "103": {
+  "liceu": "COLEGIUL NAŢIONAL „SFÂNTUL SAVA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.82
+ },
+ "104": {
+  "liceu": "COLEGIUL NAŢIONAL „SFÂNTUL SAVA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.6
+ },
+ "105": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.47
+ },
+ "106": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "1 intensiv informatică, 1 intensiv engleză Filiera teoretică - REAL - Matematică- informatică - bilingv germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": 9.72
+ },
+ "107": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - REAL - Matematică- informatică - bilingv germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.6
+ },
+ "108": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.6
+ },
+ "109": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.55
+ },
+ "110": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.3
+ },
+ "111": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": 9.17
+ },
+ "112": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Filologie - bilingv limba germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.27
+ },
+ "113": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Filologie - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.35
+ },
+ "114": {
+  "liceu": "COLEGIUL NAŢIONAL „I.L. CARAGIALE”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.42
+ },
+ "115": {
+  "liceu": "COLEGIUL NAŢIONAL DE INFORMATICĂ  „TUDOR VIANU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 8.0,
+  "locuri": 224.0,
+  "locuri_romi": 8.0,
+  "locuri_ces": 8.0,
+  "prag_2025": 9.62
+ },
+ "116": {
+  "liceu": "COLEGIUL NAŢIONAL DE INFORMATICĂ  „TUDOR VIANU”",
+  "specializare": "7 intensiv informatică, 1 intensiv limba engleză Filiera teoretică - REAL - Matematică- informatică - bilingv limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.67
+ },
+ "117": {
+  "liceu": "COLEGIUL NAŢIONAL DE INFORMATICĂ  „TUDOR VIANU”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "118": {
+  "liceu": "COLEGIUL NAŢIONAL „AUREL VLAICU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.7
+ },
+ "119": {
+  "liceu": "COLEGIUL NAŢIONAL „AUREL VLAICU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.62
+ },
+ "120": {
+  "liceu": "COLEGIUL NAŢIONAL „AUREL VLAICU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.57
+ },
+ "121": {
+  "liceu": "COLEGIUL GERMAN „GOETHE”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică - clasă specială de limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": 9.08
+ },
+ "122": {
+  "liceu": "COLEGIUL GERMAN „GOETHE”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - matern limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.46
+ },
+ "123": {
+  "liceu": "COLEGIUL GERMAN „GOETHE”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - matern limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": 2.0,
+  "prag_2025": null
+ },
+ "124": {
+  "liceu": "COLEGIUL GERMAN „GOETHE”",
+  "specializare": "Filiera teoretică - UMANIST - Științe sociale - clasă specială de limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": 8.9
+ },
+ "125": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.22
+ },
+ "126": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.25
+ },
+ "127": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - bilingv limba italiană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.17
+ },
+ "128": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.1
+ },
+ "129": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "intensiv limba engleză Filiera teoretică - UMANIST - Filologie - bilingv limba italiană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.05
+ },
+ "130": {
+  "liceu": "COLEGIUL NAŢIONAL „ION NECULCE”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.12
+ },
+ "131": {
+  "liceu": "LICEUL TEORETIC „JEAN MONNET”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.15
+ },
+ "132": {
+  "liceu": "LICEUL TEORETIC „JEAN MONNET”",
+  "specializare": "1 intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.1
+ },
+ "133": {
+  "liceu": "LICEUL TEORETIC „JEAN MONNET”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.02
+ },
+ "134": {
+  "liceu": "* COLEGIUL NAȚIONAL „CONSTANTIN BRÂNCOVEANU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.72
+ },
+ "135": {
+  "liceu": "* COLEGIUL NAȚIONAL „CONSTANTIN BRÂNCOVEANU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.6
+ },
+ "136": {
+  "liceu": "* COLEGIUL NAȚIONAL „CONSTANTIN BRÂNCOVEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.47
+ },
+ "137": {
+  "liceu": "* COLEGIUL NAȚIONAL „CONSTANTIN BRÂNCOVEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.45
+ },
+ "138": {
+  "liceu": "LICEUL TEORETIC „NICOLAE IORGA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.3
+ },
+ "139": {
+  "liceu": "LICEUL TEORETIC „NICOLAE IORGA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.27
+ },
+ "140": {
+  "liceu": "LICEUL TEORETIC „NICOLAE IORGA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.3
+ },
+ "141": {
+  "liceu": "LICEUL TEORETIC „NICOLAE IORGA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.12
+ },
+ "142": {
+  "liceu": "LICEUL TEORETIC „NICOLAE IORGA”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.17
+ },
+ "143": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU VLAHUŢĂ”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.8
+ },
+ "144": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU VLAHUŢĂ”",
+  "specializare": "intensiv limba engleză Filiera teoretică - UMANIST - Filologie - bilingv limba germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 8.61
+ },
+ "145": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU VLAHUŢĂ”",
+  "specializare": "se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Filologie - bilingv limba germană",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.77
+ },
+ "146": {
+  "liceu": "LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.15
+ },
+ "147": {
+  "liceu": "LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba spaniolă",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.8
+ },
+ "148": {
+  "liceu": "LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.0
+ },
+ "149": {
+  "liceu": "LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba spaniolă",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.47
+ },
+ "150": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică - cu predare a limbii materne bulgară",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.7
+ },
+ "151": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă maternă Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.9
+ },
+ "152": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - cu predare a limbii materne bulgară",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 7.15
+ },
+ "153": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă maternă Filiera teoretică - UMANIST - Filologie - cu predare a limbii materne neogreacă",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.65
+ },
+ "154": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă maternă Filiera teoretică - UMANIST - Filologie - cu predare a limbii materne rusă",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.3
+ },
+ "155": {
+  "liceu": "LICEUL TEORETIC BULGAR „HRISTO BOTEV”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă maternă Filiera teoretică - UMANIST - Filologie - cu predare a limbii materne rromani",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.6
+ },
+ "156": {
+  "liceu": "LICEUL GRECO-CATOLIC „TIMOTEI CIPARIU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.1
+ },
+ "400": {
+  "liceu": "COLEGIUL ECONOMIC „VIRGIL MADGEARU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 9.0,
+  "locuri": 252.0,
+  "locuri_romi": 7.0,
+  "locuri_ces": 7.0,
+  "prag_2025": 8.8
+ },
+ "401": {
+  "liceu": "COLEGIUL ECONOMIC „VIRGIL MADGEARU”",
+  "specializare": "2 intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.97
+ },
+ "157": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.8
+ },
+ "402": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 7.2
+ },
+ "403": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "intensiv limba franceză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Bucătar",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 7.2
+ },
+ "404": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.2
+ },
+ "405": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Mecanic auto",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 4.2
+ },
+ "406": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician prelucrări pe mașini cu comandă numerică / Operator la mașini cu comandă numerică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 4.2
+ },
+ "700": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Estetica şi igiena corpului omenesc - Coafor stilist / Frizer - coafor - manichiurist - pedichiurist",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "701": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Bucătar",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "702": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "703": {
+  "liceu": "COLEGIUL TEHNIC „DINICU GOLESCU”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - TEHNIC - Electric - Tehnician electrician electronist auto / Electrician auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "158": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.77
+ },
+ "407": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera tehnologică - TEHNIC - Producţie media - Tehnician audio - video / Operator producție și exploatare film",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 4.52
+ },
+ "408": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera tehnologică - TEHNIC - Producţie media - Tehnician operator procesare text/imagine / Operator producție și exploatare film",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 4.52
+ },
+ "409": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera tehnologică - TEHNIC - Producţie media - Tehnician producție film și televiziune / Operator producție și exploatare film",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 4.52
+ },
+ "410": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera tehnologică - TEHNIC - Tehnici poligrafice - Tehnician poligraf / Legător",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 4.32
+ },
+ "411": {
+  "liceu": "COLEGIUL TEHNIC „MEDIA”",
+  "specializare": "Filiera tehnologică - TEHNIC - Tehnici poligrafice - Tehnician poligraf / Tipăritor offset",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 4.32
+ },
+ "159": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.5
+ },
+ "412": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Bucătar",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.62
+ },
+ "413": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.62
+ },
+ "414": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.62
+ },
+ "704": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - Tehnic - Mecanică - Tehnician mecatronist / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "705": {
+  "liceu": "COLEGIUL TEHNIC „VALTER MĂRĂCINEANU”",
+  "specializare": "Filiera tehnologică - Tehnic - Mecanică - Tehnician proiectant CAD / Operator montator subansamble",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "160": {
+  "liceu": "LICEUL TEORETIC „GEORGE CĂLINESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.0
+ },
+ "161": {
+  "liceu": "LICEUL TEORETIC „GEORGE CĂLINESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.87
+ },
+ "162": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.0
+ },
+ "163": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "intensiv informatică Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.97
+ },
+ "415": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician exploatare joasă tensiune",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "416": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electromecanică - Tehnician aviație / Electromecanic utilaje și instalații industriale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.85
+ },
+ "417": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electromecanică - Tehnician instalații de bord (avion) / Electromecanic instalații și aparatură de bord aeronave",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.85
+ },
+ "418": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Mecanic echipamente hidraulice și pneumatice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.75
+ },
+ "419": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Mecanic echipamente hidraulice și pneumatice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.75
+ },
+ "706": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Lăcătuș construcții structuri aeronave",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "707": {
+  "liceu": "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic aeronave",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "164": {
+  "liceu": "COLEGIUL TEHNIC FEROVIAR „MIHAI I”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.72
+ },
+ "165": {
+  "liceu": "COLEGIUL TEHNIC FEROVIAR „MIHAI I”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.22
+ },
+ "420": {
+  "liceu": "COLEGIUL TEHNIC „MIRCEA CEL BĂTRÂN”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Recepționer - distribuitor",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 5.6
+ },
+ "421": {
+  "liceu": "COLEGIUL TEHNIC „MIRCEA CEL BĂTRÂN”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Tinichigiu vopsitor auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "422": {
+  "liceu": "COLEGIUL TEHNIC „MIRCEA CEL BĂTRÂN”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "423": {
+  "liceu": "COLEGIUL TEHNIC „MIRCEA CEL BĂTRÂN”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "166": {
+  "liceu": "COLEGIUL TEHNIC DE ARHITECTURĂ ŞI LUCRARI PUBLICE „IOAN. N. SOCOLESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.3
+ },
+ "424": {
+  "liceu": "COLEGIUL TEHNIC DE ARHITECTURĂ ŞI LUCRARI PUBLICE „IOAN. N. SOCOLESCU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician desenator pentru construcții și instalații / Constructor structuri monolite",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.37
+ },
+ "425": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Agricultură - Tehnician horticultor / Grădinar urban",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "426": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Agricultură - Tehnician pentru animale de companie / Zootehnist",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "427": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Agricultură - Tehnician veterinar / Zootehnist",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "428": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Agricultură - Tehnician în agroturism / Lucrător în agroturism",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "429": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.75
+ },
+ "430": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.1
+ },
+ "431": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.1
+ },
+ "167": {
+  "liceu": "LICEUL „DIMITRIE PACIUREA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.65
+ },
+ "168": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI VITEAZUL”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 8.0,
+  "locuri": 224.0,
+  "locuri_romi": 8.0,
+  "locuri_ces": 6.0,
+  "prag_2025": 9.4
+ },
+ "169": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI VITEAZUL”",
+  "specializare": "1 intensiv informatică, 2 intensiv limba engleză Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.5
+ },
+ "170": {
+  "liceu": "COLEGIUL NAŢIONAL „CANTEMIR VODĂ”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 9.35
+ },
+ "171": {
+  "liceu": "COLEGIUL NAŢIONAL „CANTEMIR VODĂ”",
+  "specializare": "2 intensiv informatică Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.55
+ },
+ "172": {
+  "liceu": "COLEGIUL NAŢIONAL „CANTEMIR VODĂ”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.37
+ },
+ "173": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.35
+ },
+ "174": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.45
+ },
+ "175": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.45
+ },
+ "176": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.22
+ },
+ "177": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba spaniolă",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.6
+ },
+ "178": {
+  "liceu": "COLEGIUL NAŢIONAL „IULIA HAŞDEU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.27
+ },
+ "179": {
+  "liceu": "COLEGIUL NAŢIONAL „SPIRU HARET”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.75
+ },
+ "180": {
+  "liceu": "COLEGIUL NAŢIONAL „SPIRU HARET”",
+  "specializare": "1 intensiv informatică Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.8
+ },
+ "181": {
+  "liceu": "COLEGIUL NAŢIONAL „SPIRU HARET”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.72
+ },
+ "182": {
+  "liceu": "COLEGIUL NAŢIONAL „SPIRU HARET”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.52
+ },
+ "183": {
+  "liceu": "COLEGIUL NAŢIONAL „SPIRU HARET”",
+  "specializare": "intensiv limba franceză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.57
+ },
+ "184": {
+  "liceu": "COLEGIUL NAŢIONAL BILINGV „GEORGE COŞBUC”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.5
+ },
+ "185": {
+  "liceu": "COLEGIUL NAŢIONAL BILINGV „GEORGE COŞBUC”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.57
+ },
+ "186": {
+  "liceu": "COLEGIUL NAŢIONAL BILINGV „GEORGE COŞBUC”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba engleză",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.3
+ },
+ "187": {
+  "liceu": "COLEGIUL NAŢIONAL BILINGV „GEORGE COŞBUC”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.47
+ },
+ "188": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 9.2
+ },
+ "189": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "1 intensiv informatică, 2 intensiv limba engleză Filiera teoretică - REAL - Matematică- informatică - bilingv limba franceză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.95
+ },
+ "190": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba franceză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.15
+ },
+ "191": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Filologie",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.02
+ },
+ "192": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - UMANIST - Filologie - bilingv limba franceză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.75
+ },
+ "193": {
+  "liceu": "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba franceză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.0
+ },
+ "194": {
+  "liceu": "COLEGIUL NAŢIONAL „EMIL RACOVIŢĂ”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.95
+ },
+ "195": {
+  "liceu": "COLEGIUL NAŢIONAL „EMIL RACOVIŢĂ”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.7
+ },
+ "196": {
+  "liceu": "COLEGIUL NAŢIONAL „VICTOR BABEŞ”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.85
+ },
+ "197": {
+  "liceu": "COLEGIUL NAŢIONAL „VICTOR BABEŞ”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 8.47
+ },
+ "198": {
+  "liceu": "COLEGIUL NAŢIONAL „VICTOR BABEŞ”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.52
+ },
+ "199": {
+  "liceu": "COLEGIUL NAŢIONAL „VICTOR BABEŞ”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.5
+ },
+ "200": {
+  "liceu": "LICEUL TEORETIC „ADY ENDRE”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - matern limba maghiară",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "201": {
+  "liceu": "LICEUL TEORETIC „LUCIAN BLAGA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.17
+ },
+ "202": {
+  "liceu": "LICEUL TEORETIC „LUCIAN BLAGA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.07
+ },
+ "203": {
+  "liceu": "LICEUL TEORETIC „LUCIAN BLAGA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.05
+ },
+ "204": {
+  "liceu": "LICEUL TEORETIC „LUCIAN BLAGA”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.05
+ },
+ "205": {
+  "liceu": "LICEUL TEORETIC „MIHAIL SADOVEANU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.35
+ },
+ "206": {
+  "liceu": "LICEUL TEORETIC „MIHAIL SADOVEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.3
+ },
+ "207": {
+  "liceu": "LICEUL TEORETIC „MIHAIL SADOVEANU”",
+  "specializare": "intensiv limba chineză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.37
+ },
+ "208": {
+  "liceu": "LICEUL TEORETIC „C.A. ROSETTI”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.02
+ },
+ "209": {
+  "liceu": "LICEUL TEORETIC „C.A. ROSETTI”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.97
+ },
+ "210": {
+  "liceu": "LICEUL TEORETIC „C.A. ROSETTI”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.97
+ },
+ "211": {
+  "liceu": "LICEUL TEORETIC BILINGV „ITA WEGMAN”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - bilingv limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.55
+ },
+ "212": {
+  "liceu": "LICEUL TEORETIC BILINGV „ITA WEGMAN”",
+  "specializare": "nu se susţine probă de verificare a cunoştinţelor de limbă modernă Filiera teoretică - UMANIST - Ştiinţe sociale - bilingv limba germană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.42
+ },
+ "213": {
+  "liceu": "LICEUL TEORETIC „TRAIAN”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.17
+ },
+ "214": {
+  "liceu": "LICEUL TEORETIC „TRAIAN”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.07
+ },
+ "215": {
+  "liceu": "LICEUL TEORETIC „TRAIAN”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.02
+ },
+ "216": {
+  "liceu": "LICEUL TEORETIC „TRAIAN”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.0
+ },
+ "217": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 6.7
+ },
+ "432": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.1
+ },
+ "433": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.77
+ },
+ "434": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician electrician electronist auto / Electrician auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 3.9
+ },
+ "435": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician operator roboți industriali / Operator la roboți industriali",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "436": {
+  "liceu": "COLEGIUL TEHNIC „EDMOND NICOLAU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Mecanic echipamente hidraulice și pneumatice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "218": {
+  "liceu": "COLEGIUL TEHNIC „DIMITRIE LEONIDA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.82
+ },
+ "219": {
+  "liceu": "COLEGIUL TEHNIC „DIMITRIE LEONIDA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.67
+ },
+ "220": {
+  "liceu": "COLEGIUL TEHNIC „DIMITRIE LEONIDA”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "708": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "709": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Mecanic echipamente hidraulice și pneumatice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "710": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Operator la mașini cu comandă numerică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "711": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "221": {
+  "liceu": "LICEUL TEHNOLOGIC „SFÂNTUL PANTELIMON”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.65
+ },
+ "222": {
+  "liceu": "LICEUL TEHNOLOGIC „SFÂNTUL PANTELIMON”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.72
+ },
+ "437": {
+  "liceu": "LICEUL TEHNOLOGIC „SFÂNTUL PANTELIMON”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic de mecanică fină",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.65
+ },
+ "438": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.87
+ },
+ "439": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Filiera tehnologică - SERVICII - Comerț - Tehnician în achiziții și contractări / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.25
+ },
+ "440": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.37
+ },
+ "441": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în administrație / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.37
+ },
+ "442": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 7.1
+ },
+ "443": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Fabricarea produselor din lemn - Tehnician designer mobilă și amenajări interioare / Tâmplar universal",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 5.12
+ },
+ "444": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Fabricarea produselor din lemn - Tehnician proiectant produse finite din lemn / Tâmplar universal",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 5.12
+ },
+ "445": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în industria alimentară / Brutar - patiser - preparator produse făinoase",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "446": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.15
+ },
+ "447": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Bucătar",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": 6.15
+ },
+ "448": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Cofetar-patiser",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.15
+ },
+ "449": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician sisteme fotovoltaice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "450": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "451": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Tinichigiu vopsitor auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "452": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician prelucrări mecanice / Mecanic de mecanică fină",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "453": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Mecanic de mecanică fină",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "223": {
+  "liceu": "LICEUL TEHNOLOGIC „NIKOLA TESLA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "454": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Agricultură - Tehnician horticultor / Horticultor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.22
+ },
+ "455": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.97
+ },
+ "456": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - SERVICII - Turism și alimentație - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "457": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician electrician electronist auto / Electrician auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.62
+ },
+ "458": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician în automatizări / Electronist aparate și echipamente",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.3
+ },
+ "712": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician exploatare joasă tensiune",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "459": {
+  "liceu": "COLEGIUL ECONOMIC „A.D. XENOPOL”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 6.0,
+  "locuri": 168.0,
+  "locuri_romi": 6.0,
+  "locuri_ces": 6.0,
+  "prag_2025": 8.47
+ },
+ "460": {
+  "liceu": "COLEGIUL ECONOMIC „A.D. XENOPOL”",
+  "specializare": "spaniolă, 1 intensiv limba greacă/limba turcă, 1 intensiv limba engleză/limba franceză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.42
+ },
+ "461": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerţ - Tehnician în achiziții și contractări / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.92
+ },
+ "462": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerţ - Tehnician în activități de comerț / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.92
+ },
+ "463": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 8.02
+ },
+ "464": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în administrație / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.02
+ },
+ "465": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.97
+ },
+ "466": {
+  "liceu": "COLEGIUL ECONOMIC „HERMES”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.97
+ },
+ "224": {
+  "liceu": "COLEGIUL NAŢIONAL „MATEI BASARAB”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 9.55
+ },
+ "225": {
+  "liceu": "COLEGIUL NAŢIONAL „MATEI BASARAB”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.55
+ },
+ "226": {
+  "liceu": "COLEGIUL NAŢIONAL „MATEI BASARAB”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.42
+ },
+ "227": {
+  "liceu": "COLEGIUL NAŢIONAL „MATEI BASARAB”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.47
+ },
+ "228": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU IOAN CUZA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 9.22
+ },
+ "229": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU IOAN CUZA”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.25
+ },
+ "230": {
+  "liceu": "LICEUL TEORETIC „ALEXANDRU IOAN CUZA”",
+  "specializare": "intensiv limba engleză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.12
+ },
+ "231": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.97
+ },
+ "232": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - REAL - Matematică- informatică - bilingv limba italiană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.65
+ },
+ "233": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.97
+ },
+ "234": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii - matern limba italiană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.77
+ },
+ "235": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.87
+ },
+ "236": {
+  "liceu": "LICEUL TEORETIC „DANTE ALIGHIERI”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie - bilingv limba italiană",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.0
+ },
+ "237": {
+  "liceu": "LICEUL TEORETIC „BENJAMIN FRANKLIN”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.57
+ },
+ "238": {
+  "liceu": "LICEUL TEORETIC „BENJAMIN FRANKLIN”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.5
+ },
+ "239": {
+  "liceu": "LICEUL TEORETIC „BENJAMIN FRANKLIN”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.35
+ },
+ "240": {
+  "liceu": "LICEUL TEORETIC „NICHITA STĂNESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.17
+ },
+ "241": {
+  "liceu": "LICEUL TEORETIC „NICHITA STĂNESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.02
+ },
+ "242": {
+  "liceu": "LICEUL TEORETIC „DECEBAL”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.2
+ },
+ "243": {
+  "liceu": "LICEUL TEORETIC „DECEBAL”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.0
+ },
+ "244": {
+  "liceu": "LICEUL TEORETIC „DECEBAL”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 7.92
+ },
+ "467": {
+  "liceu": "* COLEGIUL ECONOMIC „NICOLAE KRETZULESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerţ - Tehnician în achiziții și contractări / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.77
+ },
+ "468": {
+  "liceu": "* COLEGIUL ECONOMIC „NICOLAE KRETZULESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 5.0,
+  "locuri": 140.0,
+  "locuri_romi": 5.0,
+  "locuri_ces": 5.0,
+  "prag_2025": 8.75
+ },
+ "469": {
+  "liceu": "* COLEGIUL ECONOMIC „NICOLAE KRETZULESCU”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv limba franceză, 1 intensiv limba germană Filiera tehnologică - SERVICII - Economic - Tehnician în administrație / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.75
+ },
+ "470": {
+  "liceu": "* COLEGIUL ECONOMIC „NICOLAE KRETZULESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.72
+ },
+ "245": {
+  "liceu": "COLEGIUL TEHNIC „COSTIN D. NENIŢESCU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.75
+ },
+ "246": {
+  "liceu": "COLEGIUL TEHNIC „COSTIN D. NENIŢESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.82
+ },
+ "247": {
+  "liceu": "COLEGIUL TEHNIC „COSTIN D. NENIŢESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.75
+ },
+ "471": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Chimie industrială - Tehnician chimist de laborator / Operator industria chimică anorganică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.55
+ },
+ "472": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Chimie industrială - Tehnician chimist de laborator / Operator industria chimică organică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.55
+ },
+ "473": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Chimie industrială - Tehnician chimist de laborator / Operator industria de medicamente și produse cosmetice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.55
+ },
+ "474": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI -",
+  "specializare": "Industrie alimentară - Tehnician analize produse alimentare / Operator în prelucrarea legumelor și fructelor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.2
+ },
+ "475": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI",
+  "specializare": "- Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.02
+ },
+ "476": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.07
+ },
+ "477": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 7.2
+ },
+ "478": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician instalator pentru construcții / Instalator de instalații tehnico-sanitare și de gaze",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.5
+ },
+ "713": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician instalator pentru construcții / Instalator de instalații de încălzire centrală",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "714": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician instalator pentru construcții / Instalator de instalații tehnico-sanitare și de gaze",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "715": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician constructor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "248": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.87
+ },
+ "479": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "1 intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Bucătar",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": 7.37
+ },
+ "480": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.37
+ },
+ "481": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 7.37
+ },
+ "482": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.37
+ },
+ "483": {
+  "liceu": "COLEGIUL TEHNIC „MIHAI BRAVU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician desenator pentru construcții și instalații / Instalator de instalații tehnico-sanitare și de gaze",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.12
+ },
+ "484": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician instalator pentru construcții / Instalator de instalații de încălzire centrală",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 5.12
+ },
+ "485": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician instalator pentru construcții / Instalator de instalații tehnico-sanitare și de gaze",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.12
+ },
+ "486": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Construcţii, instalaţii şi lucrări publice - Tehnician în construcții și lucrări publice / Constructor structuri monolite",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 5.12
+ },
+ "487": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician constructor",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.12
+ },
+ "716": {
+  "liceu": "OBSERVAŢII",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician constructor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "488": {
+  "liceu": "LICEUL TEHNOLOGIC „ELIE RADU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.4
+ },
+ "489": {
+  "liceu": "LICEUL TEHNOLOGIC „ELIE RADU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în administrație / Comerciant - vânzător",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 5.4
+ },
+ "490": {
+  "liceu": "LICEUL TEHNOLOGIC „ELIE RADU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic auto",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 4.1
+ },
+ "717": {
+  "liceu": "LICEUL TEHNOLOGIC „ELIE RADU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "718": {
+  "liceu": "LICEUL TEHNOLOGIC „ELIE RADU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "491": {
+  "liceu": "LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerț - Tehnician în activități de comerț / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.02
+ },
+ "492": {
+  "liceu": "LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 6.32
+ },
+ "493": {
+  "liceu": "LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Estetica şi igiena corpului omenesc - Coafor stilist / Frizer - coafor - manichiurist - pedichiurist",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 5.4
+ },
+ "249": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.47
+ },
+ "494": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician electrician electronist auto / Electrician auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "495": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician de telecomunicații / Electronist rețele de telecomunicații",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 3.67
+ },
+ "496": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician în automatizări / Electronist aparate și echipamente",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 3.67
+ },
+ "497": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecanic pentru intreținere și reparații / Mecanic utilaje și instalații în industrie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "498": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Mecanic echipamente hidraulice și pneumatice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "499": {
+  "liceu": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "250": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI EMINESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 9.25
+ },
+ "251": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI EMINESCU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.27
+ },
+ "252": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI EMINESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.15
+ },
+ "253": {
+  "liceu": "COLEGIUL NAŢIONAL „MIHAI EMINESCU”",
+  "specializare": "intensiv limba franceză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.17
+ },
+ "254": {
+  "liceu": "COLEGIUL NAŢIONAL „GHEORGHE ŞINCAI”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 5.0,
+  "locuri": 140.0,
+  "locuri_romi": 5.0,
+  "locuri_ces": 5.0,
+  "prag_2025": 9.47
+ },
+ "255": {
+  "liceu": "COLEGIUL NAŢIONAL „GHEORGHE ŞINCAI”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv limba franceză Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.52
+ },
+ "256": {
+  "liceu": "COLEGIUL NAŢIONAL „GHEORGHE ŞINCAI”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.35
+ },
+ "257": {
+  "liceu": "COLEGIUL NAŢIONAL „ION CREANGA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.37
+ },
+ "258": {
+  "liceu": "COLEGIUL NAŢIONAL „ION CREANGA”",
+  "specializare": "Filiera teoretică - REAL - Matematică- informatică - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.45
+ },
+ "259": {
+  "liceu": "COLEGIUL NAŢIONAL „ION CREANGA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.35
+ },
+ "260": {
+  "liceu": "COLEGIUL NAŢIONAL „ION CREANGA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.2
+ },
+ "261": {
+  "liceu": "COLEGIUL NAŢIONAL „ION CREANGA”",
+  "specializare": "1 intensiv limba japoneză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.27
+ },
+ "262": {
+  "liceu": "COLEGIUL NAŢIONAL „OCTAV ONICESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 8.65
+ },
+ "263": {
+  "liceu": "COLEGIUL NAŢIONAL „OCTAV ONICESCU”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv informatică Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.52
+ },
+ "264": {
+  "liceu": "COLEGIUL NAŢIONAL „OCTAV ONICESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.57
+ },
+ "265": {
+  "liceu": "COLEGIUL ROMANO - CATOLIC „SF. IOSIF”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.6
+ },
+ "266": {
+  "liceu": "LICEUL TEOLOGIC ADVENTIST ”ŞTEFAN DEMETRESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 8.75
+ },
+ "267": {
+  "liceu": "LICEUL TEOLOGIC ADVENTIST ”ŞTEFAN DEMETRESCU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.57
+ },
+ "268": {
+  "liceu": "LICEUL TEOLOGIC ADVENTIST ”ŞTEFAN DEMETRESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.45
+ },
+ "269": {
+  "liceu": "LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.67
+ },
+ "270": {
+  "liceu": "LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”",
+  "specializare": "intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.6
+ },
+ "271": {
+  "liceu": "LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.62
+ },
+ "500": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI",
+  "specializare": "- Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.67
+ },
+ "501": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician metrolog / Electrician aparate și echipamente electrice și energetice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.27
+ },
+ "502": {
+  "liceu": "NATURALE ŞI PROTECŢIA MEDIULUI",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician în automatizări / Electronist aparate și echipamente",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.92
+ },
+ "503": {
+  "liceu": "LICEUL ECONOMIC NR. 1",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 7.0,
+  "locuri": 196.0,
+  "locuri_romi": 7.0,
+  "locuri_ces": 7.0,
+  "prag_2025": 6.7
+ },
+ "504": {
+  "liceu": "LICEUL ECONOMIC NR. 1",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 6.6
+ },
+ "505": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.32
+ },
+ "506": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": null
+ },
+ "272": {
+  "liceu": "* COLEGIUL NAŢIONAL „GHEORGHE LAZĂR”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.82
+ },
+ "273": {
+  "liceu": "* COLEGIUL NAŢIONAL „GHEORGHE LAZĂR”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 9.8
+ },
+ "274": {
+  "liceu": "* COLEGIUL NAŢIONAL „GHEORGHE LAZĂR”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.62
+ },
+ "275": {
+  "liceu": "* COLEGIUL NAŢIONAL „GHEORGHE LAZĂR”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.65
+ },
+ "276": {
+  "liceu": "LICEUL TEORETIC „ION BARBU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.1
+ },
+ "277": {
+  "liceu": "LICEUL TEORETIC „ION BARBU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.05
+ },
+ "278": {
+  "liceu": "LICEUL TEORETIC „ION BARBU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.92
+ },
+ "279": {
+  "liceu": "LICEUL TEORETIC „DIMITRIE BOLINTINEANU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.32
+ },
+ "280": {
+  "liceu": "LICEUL TEORETIC „DIMITRIE BOLINTINEANU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.25
+ },
+ "281": {
+  "liceu": "LICEUL TEORETIC „DIMITRIE BOLINTINEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.22
+ },
+ "282": {
+  "liceu": "LICEUL TEORETIC „DIMITRIE BOLINTINEANU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.37
+ },
+ "283": {
+  "liceu": "LICEUL TEORETIC „ŞTEFAN ODOBLEJA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.65
+ },
+ "284": {
+  "liceu": "LICEUL TEORETIC „ŞTEFAN ODOBLEJA”",
+  "specializare": "1 intensiv informatică, 1 intensiv limba engleză Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.82
+ },
+ "285": {
+  "liceu": "LICEUL TEORETIC „ŞTEFAN ODOBLEJA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.62
+ },
+ "286": {
+  "liceu": "LICEUL TEORETIC „ŞTEFAN ODOBLEJA”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.67
+ },
+ "287": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.42
+ },
+ "288": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.25
+ },
+ "507": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 6.4
+ },
+ "508": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician energetician / Electrician aparate și echipamente electrice și energetice",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.02
+ },
+ "509": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician exploatare joasă tensiune",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.02
+ },
+ "510": {
+  "liceu": "COLEGIUL TEHNIC ENERGETIC",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Operator montator subansamble",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 3.85
+ },
+ "511": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician analize produse alimentare / Brutar - patiser - preparator produse făinoase",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "512": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician analize produse alimentare / Operator în industria malțului și a berii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "513": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician analize produse alimentare / Operator în industria zahărului și produselor zaharoase",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "514": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în industria alimentară / Operator în industria malțului și a berii",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "515": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în industria alimentară / Operator în industria zahărului și produselor zaharoase",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "516": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în industria alimentară / Preparator produse din carne și pește",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "517": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în morărit, panificație și produse făinoase / Brutar - patiser - preparator produse făinoase",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "518": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Industrie alimentară - Tehnician în prelucrarea produselor de origine animală / Preparator produse din carne și pește",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "519": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electromecanică - Tehnician electromecanic / Electromecanic utilaje și instalații comerciale, electrocasnice și din industria alimentară",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": null,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "520": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electromecanică - Tehnician electromecanic / Frigotehnist",
+  "clase": 0.5,
+  "locuri": 14.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ },
+ "289": {
+  "liceu": "LICEUL TEHNOLOGIC „DIMITRIE GUSTI”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.4
+ },
+ "290": {
+  "liceu": "LICEUL TEHNOLOGIC „DIMITRIE GUSTI”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.42
+ },
+ "521": {
+  "liceu": "LICEUL TEHNOLOGIC „DIMITRIE GUSTI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician prelucrări mecanice / Lăcătuș construcții metalice și utilaj tehnologic",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 4.6
+ },
+ "291": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.8
+ },
+ "292": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.8
+ },
+ "522": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerț - Tehnician în achiziții și contractări / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "523": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.55
+ },
+ "524": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.82
+ },
+ "525": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.82
+ },
+ "526": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.82
+ },
+ "527": {
+  "liceu": "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Operator montator subansamble",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.82
+ },
+ "528": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerţ - Tehnician în achiziții și contractări / Recepționer - distribuitor",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.12
+ },
+ "529": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerţ - Tehnician în activități de comerț / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.12
+ },
+ "530": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 5.0,
+  "locuri": 140.0,
+  "locuri_romi": 5.0,
+  "locuri_ces": 5.0,
+  "prag_2025": 6.97
+ },
+ "531": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv limba franceză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 4.0,
+  "locuri_ces": 4.0,
+  "prag_2025": 6.0
+ },
+ "532": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv limba franceză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Bucătar",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 6.0,
+  "locuri_ces": null,
+  "prag_2025": 6.0
+ },
+ "533": {
+  "liceu": "COLEGIUL ECONOMIC „VIILOR”",
+  "specializare": "1 intensiv limba franceză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 6.0
+ },
+ "293": {
+  "liceu": "COLEGIUL NAŢIONAL „ELENA CUZA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.32
+ },
+ "294": {
+  "liceu": "COLEGIUL NAŢIONAL „ELENA CUZA”",
+  "specializare": "intensiv informatică Filiera teoretică - UMANIST - Filologie - bilingv limba engleză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.1
+ },
+ "295": {
+  "liceu": "COLEGIUL NAŢIONAL „ELENA CUZA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.07
+ },
+ "296": {
+  "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.52
+ },
+ "297": {
+  "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL”",
+  "specializare": "1 intensiv limba engleză, 1 intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.6
+ },
+ "298": {
+  "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 9.25
+ },
+ "299": {
+  "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL”",
+  "specializare": "intensiv limba engleză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 9.35
+ },
+ "300": {
+  "liceu": "LICEUL TEORETIC „MARIN PREDA”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.62
+ },
+ "301": {
+  "liceu": "LICEUL TEORETIC „MARIN PREDA”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.52
+ },
+ "302": {
+  "liceu": "LICEUL TEORETIC „MARIN PREDA”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.4
+ },
+ "303": {
+  "liceu": "LICEUL TEORETIC „MARIN PREDA”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.35
+ },
+ "304": {
+  "liceu": "COLEGIUL NAŢIONAL „TUDOR VLADIMIRESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 9.02
+ },
+ "305": {
+  "liceu": "COLEGIUL NAŢIONAL „TUDOR VLADIMIRESCU”",
+  "specializare": "intensiv informatică Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.95
+ },
+ "306": {
+  "liceu": "COLEGIUL NAŢIONAL „TUDOR VLADIMIRESCU”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.87
+ },
+ "307": {
+  "liceu": "COLEGIUL NAŢIONAL „TUDOR VLADIMIRESCU”",
+  "specializare": "intensiv franceză Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.8
+ },
+ "308": {
+  "liceu": "LICEUL TEORETIC „EUGEN LOVINESCU”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.67
+ },
+ "309": {
+  "liceu": "LICEUL TEORETIC „EUGEN LOVINESCU”",
+  "specializare": "intensiv informatică Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.55
+ },
+ "310": {
+  "liceu": "LICEUL TEORETIC „EUGEN LOVINESCU”",
+  "specializare": "1 intensiv limba engleză Filiera teoretică - UMANIST - Filologie - bilingv limba portugheză",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.5
+ },
+ "534": {
+  "liceu": "LICEUL TEHNOLOGIC „SF. ANTIM IVIREANU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.65
+ },
+ "311": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.6
+ },
+ "312": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 7.45
+ },
+ "535": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "1 intensiv limba engleză Filiera tehnologică - SERVICII - Economic - Tehnician în activități de poștă / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.1
+ },
+ "536": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "intensiv limba franceză Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.1
+ },
+ "537": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Organizator banqueting / Ospătar (chelner) vânzător în unități de alimentație",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.92
+ },
+ "538": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în gastronomie / Bucătar",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.92
+ },
+ "539": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "intensiv limba franceză Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician de telecomunicații / Electronist rețele de telecomunicații",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 6.25
+ },
+ "540": {
+  "liceu": "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”",
+  "specializare": "intensiv limba engleză Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician operator telematică / Electronist rețele de telecomunicații",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.25
+ },
+ "313": {
+  "liceu": "COLEGIUL TEHNIC „PETRU MAIOR”",
+  "specializare": "Filiera teoretică - REAL - Matematică-informatică",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.4
+ },
+ "314": {
+  "liceu": "COLEGIUL TEHNIC „PETRU MAIOR”",
+  "specializare": "Filiera teoretică - UMANIST - Filologie",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.22
+ },
+ "315": {
+  "liceu": "COLEGIUL TEHNIC „PETRU MAIOR”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.22
+ },
+ "541": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.9
+ },
+ "542": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician exploatare joasă tensiune",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.02
+ },
+ "543": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician mecatronist / Operator montator subansamble",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.75
+ },
+ "544": {
+  "liceu": "LICEUL TEHNOLOGIC „PETRU PONI”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Recepționer - distribuitor",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 4.92
+ },
+ "545": {
+  "liceu": "LICEUL TEHNOLOGIC „PETRU PONI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician în instalații electrice / Electrician exploatare joasă tensiune",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": null
+ },
+ "546": {
+  "liceu": "LICEUL TEHNOLOGIC „PETRU PONI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Operator la mașini cu comandă numerică",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": null
+ },
+ "316": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.22
+ },
+ "317": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 3.0,
+  "locuri": 84.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.07
+ },
+ "547": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "1 intensiv limba engleză Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.8
+ },
+ "548": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.8
+ },
+ "549": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Electric - Tehnician electrician electronist auto / Electrician auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.3
+ },
+ "550": {
+  "liceu": "COLEGIUL TEHNIC „IULIU MANIU”",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 4.75
+ },
+ "318": {
+  "liceu": "LICEUL CU PROGRAM SPORTIV „MIRCEA ELIADE”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.17
+ },
+ "319": {
+  "liceu": "LICEUL CU PROGRAM SPORTIV „MIRCEA ELIADE”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.17
+ },
+ "320": {
+  "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.02
+ },
+ "321": {
+  "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.95
+ },
+ "551": {
+  "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Industrie textilă şi pielărie - Tehnician designer vestimentar / Confecționer produse textile",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 6.35
+ },
+ "552": {
+  "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Producţie media - Tehnician multimedia / Operator producție și exploatare film",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.12
+ },
+ "553": {
+  "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI”",
+  "specializare": "Filiera tehnologică - TEHNIC - Producţie media - Tehnician producție film si televiziune / Operator producție și exploatare film",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.12
+ },
+ "322": {
+  "liceu": "COLEGIUL TEHNIC „CAROL I”",
+  "specializare": "Filiera teoretică - REAL - Ştiinţe ale naturii",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 7.47
+ },
+ "323": {
+  "liceu": "COLEGIUL TEHNIC „CAROL I”",
+  "specializare": "Filiera teoretică - UMANIST - Ştiinţe sociale",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 7.6
+ },
+ "554": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "MEDIULUI - Protecţia mediului - Tehnician ecolog și protecția calității mediului",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 6.8
+ },
+ "555": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Electronică automatizări - Tehnician operator tehnică de calcul / Electronist aparate și echipamente",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 5.67
+ },
+ "556": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician proiectant CAD / Operator montator subansamble",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "557": {
+  "liceu": "NATURALE ŞI PROTECŢIA",
+  "specializare": "Filiera tehnologică - TEHNIC - Mecanică - Tehnician transporturi / Mecanic auto",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": null
+ },
+ "558": {
+  "liceu": "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în activități economice / Comerciant - vânzător",
+  "clase": 4.0,
+  "locuri": 112.0,
+  "locuri_romi": 3.0,
+  "locuri_ces": 3.0,
+  "prag_2025": 8.3
+ },
+ "559": {
+  "liceu": "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Economic - Tehnician în administrație / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": null,
+  "prag_2025": 8.3
+ },
+ "560": {
+  "liceu": "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în hotelărie / Lucrător hotelier",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 1.0,
+  "locuri_ces": 1.0,
+  "prag_2025": 8.2
+ },
+ "561": {
+  "liceu": "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Turism şi alimentaţie - Tehnician în turism / Lucrător hotelier",
+  "clase": 2.0,
+  "locuri": 56.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": 2.0,
+  "prag_2025": 8.2
+ },
+ "719": {
+  "liceu": "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”",
+  "specializare": "Filiera tehnologică - SERVICII - Comerț - Tehnician în activități de comerț / Comerciant - vânzător",
+  "clase": 1.0,
+  "locuri": 28.0,
+  "locuri_romi": 2.0,
+  "locuri_ces": null,
+  "prag_2025": null
+ }
+}

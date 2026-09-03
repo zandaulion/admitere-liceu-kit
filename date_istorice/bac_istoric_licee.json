@@ -1,0 +1,2782 @@
+{
+ "* COLEGIUL ECONOMIC „NICOLAE KRETZULESCU”": {
+  "2026": {
+   "medie_bac": "8.68",
+   "promovare_%": "99.5"
+  },
+  "2025": {
+   "medie_bac": "8.39",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "71",
+   "promovare_%": "99.5"
+  },
+  "2023": {
+   "medie_bac": "8.42",
+   "promovare_%": "99.6"
+  },
+  "2022": {
+   "medie_bac": "8.36",
+   "promovare_%": "99.1"
+  },
+  "2021": {
+   "medie_bac": "8.56",
+   "promovare_%": "100"
+  },
+  "2020": {
+   "medie_bac": "8.67",
+   "promovare_%": "98.7"
+  },
+  "2018": {
+   "medie_bac": "8.09",
+   "promovare_%": "100"
+  }
+ },
+ "* COLEGIUL NAŢIONAL „GHEORGHE LAZĂR”": {
+  "2026": {
+   "medie_bac": "2",
+   "promovare_%": "99.6"
+  },
+  "2025": {
+   "medie_bac": "1",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "5",
+   "promovare_%": "99.6"
+  },
+  "2023": {
+   "medie_bac": "2",
+   "promovare_%": "99.7"
+  },
+  "2022": {
+   "medie_bac": "3",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "6",
+   "promovare_%": "100"
+  },
+  "2020": {
+   "medie_bac": "8",
+   "promovare_%": "100"
+  },
+  "2018": {
+   "medie_bac": "5",
+   "promovare_%": "99.6"
+  }
+ },
+ "COLEGIUL ECONOMIC „A.D. XENOPOL”": {
+  "2026": {
+   "medie_bac": "8.37",
+   "promovare_%": "97.6"
+  },
+  "2025": {
+   "medie_bac": "7.74",
+   "promovare_%": "96.8"
+  },
+  "2024": {
+   "medie_bac": "8.35",
+   "promovare_%": "97.2"
+  },
+  "2023": {
+   "medie_bac": "7.83",
+   "promovare_%": "95.6"
+  },
+  "2022": {
+   "medie_bac": "7.91",
+   "promovare_%": "96.8"
+  },
+  "2021": {
+   "medie_bac": "7.89",
+   "promovare_%": "93.2"
+  },
+  "2020": {
+   "medie_bac": "7.85",
+   "promovare_%": "95.1"
+  },
+  "2018": {
+   "medie_bac": "7.57",
+   "promovare_%": "92.4"
+  }
+ },
+ "COLEGIUL ECONOMIC „COSTIN C. KIRIŢESCU”": {
+  "2026": {
+   "medie_bac": "7.82",
+   "promovare_%": "92.8"
+  },
+  "2025": {
+   "medie_bac": "7.25",
+   "promovare_%": "87.5"
+  },
+  "2024": {
+   "medie_bac": "8.05",
+   "promovare_%": "95"
+  },
+  "2023": {
+   "medie_bac": "7.74",
+   "promovare_%": "92.4"
+  },
+  "2022": {
+   "medie_bac": "7.46",
+   "promovare_%": "88.7"
+  },
+  "2021": {
+   "medie_bac": "7.72",
+   "promovare_%": "91.6"
+  },
+  "2020": {
+   "medie_bac": "7.86",
+   "promovare_%": "93.5"
+  },
+  "2018": {
+   "medie_bac": "7.29",
+   "promovare_%": "86.4"
+  }
+ },
+ "COLEGIUL ECONOMIC „HERMES”": {
+  "2026": {
+   "medie_bac": "7.61",
+   "promovare_%": "91.6"
+  },
+  "2025": {
+   "medie_bac": "6.49",
+   "promovare_%": "70.8"
+  },
+  "2024": {
+   "medie_bac": "7.63",
+   "promovare_%": "89.6"
+  },
+  "2023": {
+   "medie_bac": "7.17",
+   "promovare_%": "86.2"
+  },
+  "2022": {
+   "medie_bac": "7.07",
+   "promovare_%": "79.8"
+  },
+  "2021": {
+   "medie_bac": "7.03",
+   "promovare_%": "81.5"
+  },
+  "2020": {
+   "medie_bac": "7.04",
+   "promovare_%": "78.4"
+  },
+  "2018": {
+   "medie_bac": "6.83",
+   "promovare_%": "74.8"
+  }
+ },
+ "COLEGIUL ECONOMIC „VIILOR”": {
+  "2026": {
+   "medie_bac": "6.41",
+   "promovare_%": "63.5"
+  },
+  "2025": {
+   "medie_bac": "6.12",
+   "promovare_%": "55.1"
+  },
+  "2024": {
+   "medie_bac": "7.12",
+   "promovare_%": "82.7"
+  },
+  "2023": {
+   "medie_bac": "6.53",
+   "promovare_%": "70.8"
+  },
+  "2022": {
+   "medie_bac": "6.50",
+   "promovare_%": "66.9"
+  },
+  "2021": {
+   "medie_bac": "5.84",
+   "promovare_%": "50.4"
+  },
+  "2020": {
+   "medie_bac": "5.87",
+   "promovare_%": "49.7"
+  },
+  "2018": {
+   "medie_bac": "5.96",
+   "promovare_%": "47.8"
+  }
+ },
+ "COLEGIUL ECONOMIC „VIRGIL MADGEARU”": {
+  "2026": {
+   "medie_bac": "8.75",
+   "promovare_%": "99.3"
+  },
+  "2025": {
+   "medie_bac": "8.57",
+   "promovare_%": "98.9"
+  },
+  "2024": {
+   "medie_bac": "8.84",
+   "promovare_%": "99.1"
+  },
+  "2023": {
+   "medie_bac": "8.49",
+   "promovare_%": "98.7"
+  },
+  "2022": {
+   "medie_bac": "8.72",
+   "promovare_%": "99"
+  },
+  "2021": {
+   "medie_bac": "80",
+   "promovare_%": "98.4"
+  },
+  "2020": {
+   "medie_bac": "8.54",
+   "promovare_%": "99.1"
+  },
+  "2018": {
+   "medie_bac": "8.24",
+   "promovare_%": "98.1"
+  }
+ },
+ "COLEGIUL GERMAN „GOETHE”": {
+  "2026": {
+   "medie_bac": "8.05",
+   "promovare_%": "98.4"
+  },
+  "2025": {
+   "medie_bac": "8.24",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "8.29",
+   "promovare_%": "96.9"
+  },
+  "2023": {
+   "medie_bac": "8.07",
+   "promovare_%": "98.4"
+  },
+  "2022": {
+   "medie_bac": "7.86",
+   "promovare_%": "96.3"
+  },
+  "2021": {
+   "medie_bac": "8.56",
+   "promovare_%": "100"
+  },
+  "2020": {
+   "medie_bac": "8.41",
+   "promovare_%": "96.3"
+  },
+  "2018": {
+   "medie_bac": null,
+   "promovare_%": "96.6"
+  }
+ },
+ "COLEGIUL NAŢIONAL BILINGV „GEORGE COŞBUC”": {
+  "2026": {
+   "medie_bac": "16",
+   "promovare_%": "99"
+  },
+  "2025": {
+   "medie_bac": "15",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "34",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "92",
+   "promovare_%": "99"
+  },
+  "2022": {
+   "medie_bac": "53",
+   "promovare_%": "99"
+  },
+  "2021": {
+   "medie_bac": "24",
+   "promovare_%": "100"
+  },
+  "2020": {
+   "medie_bac": "46",
+   "promovare_%": "99.4"
+  },
+  "2018": {
+   "medie_bac": "24",
+   "promovare_%": "99.4"
+  }
+ },
+ "COLEGIUL NAŢIONAL DE INFORMATICĂ  „TUDOR VIANU”": {
+  "2026": {
+   "medie_bac": "7",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "4",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "4",
+   "promovare_%": "99.6"
+  },
+  "2023": {
+   "medie_bac": "13",
+   "promovare_%": "100"
+  },
+  "2022": {
+   "medie_bac": "11",
+   "promovare_%": "99.6"
+  },
+  "2021": {
+   "medie_bac": "9",
+   "promovare_%": "99.7"
+  },
+  "2020": {
+   "medie_bac": "9",
+   "promovare_%": "99.6"
+  },
+  "2018": {
+   "medie_bac": "9",
+   "promovare_%": "99.6"
+  }
+ },
+ "COLEGIUL NAŢIONAL „AUREL VLAICU”": {
+  "2026": {
+   "medie_bac": "7.99",
+   "promovare_%": "92"
+  },
+  "2025": {
+   "medie_bac": "7.45",
+   "promovare_%": "84.4"
+  },
+  "2024": {
+   "medie_bac": "7.84",
+   "promovare_%": "92.8"
+  },
+  "2023": {
+   "medie_bac": "7.28",
+   "promovare_%": "83.7"
+  },
+  "2022": {
+   "medie_bac": "7.53",
+   "promovare_%": "85.5"
+  },
+  "2021": {
+   "medie_bac": "6.91",
+   "promovare_%": "74.8"
+  },
+  "2020": {
+   "medie_bac": "7.05",
+   "promovare_%": "74.1"
+  },
+  "2018": {
+   "medie_bac": "7.05",
+   "promovare_%": "78.2"
+  }
+ },
+ "COLEGIUL NAŢIONAL „CANTEMIR VODĂ”": {
+  "2026": {
+   "medie_bac": "54",
+   "promovare_%": "99.5"
+  },
+  "2025": {
+   "medie_bac": "98",
+   "promovare_%": "97.7"
+  },
+  "2024": {
+   "medie_bac": "61",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "8.57",
+   "promovare_%": "96.7"
+  },
+  "2022": {
+   "medie_bac": "76",
+   "promovare_%": "99.4"
+  },
+  "2021": {
+   "medie_bac": "85",
+   "promovare_%": "99.4"
+  },
+  "2020": {
+   "medie_bac": "8.59",
+   "promovare_%": "97.7"
+  },
+  "2018": {
+   "medie_bac": "72",
+   "promovare_%": "98.9"
+  }
+ },
+ "COLEGIUL NAŢIONAL „ELENA CUZA”": {
+  "2026": {
+   "medie_bac": "72",
+   "promovare_%": "98.3"
+  },
+  "2025": {
+   "medie_bac": "73",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "60",
+   "promovare_%": "98.9"
+  },
+  "2023": {
+   "medie_bac": "89",
+   "promovare_%": "99.4"
+  },
+  "2022": {
+   "medie_bac": "8.70",
+   "promovare_%": "98.7"
+  },
+  "2021": {
+   "medie_bac": "67",
+   "promovare_%": "98.6"
+  },
+  "2020": {
+   "medie_bac": "56",
+   "promovare_%": "98.7"
+  },
+  "2018": {
+   "medie_bac": "8.43",
+   "promovare_%": "95.2"
+  }
+ },
+ "COLEGIUL NAŢIONAL „EMIL RACOVIŢĂ”": {
+  "2026": {
+   "medie_bac": "7.57",
+   "promovare_%": "88.4"
+  },
+  "2025": {
+   "medie_bac": "7.97",
+   "promovare_%": "94.4"
+  },
+  "2024": {
+   "medie_bac": "8.13",
+   "promovare_%": "93.1"
+  },
+  "2023": {
+   "medie_bac": "7.53",
+   "promovare_%": "89.5"
+  },
+  "2022": {
+   "medie_bac": "7.34",
+   "promovare_%": "85.7"
+  },
+  "2021": {
+   "medie_bac": "7.52",
+   "promovare_%": "84.3"
+  },
+  "2020": {
+   "medie_bac": "7.50",
+   "promovare_%": "89.8"
+  },
+  "2018": {
+   "medie_bac": "7.29",
+   "promovare_%": "78.8"
+  }
+ },
+ "COLEGIUL NAŢIONAL „GHEORGHE ŞINCAI”": {
+  "2026": {
+   "medie_bac": "83",
+   "promovare_%": "97.3"
+  },
+  "2025": {
+   "medie_bac": "45",
+   "promovare_%": "99.6"
+  },
+  "2024": {
+   "medie_bac": "33",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "37",
+   "promovare_%": "100"
+  },
+  "2022": {
+   "medie_bac": "14",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "34",
+   "promovare_%": "99.3"
+  },
+  "2020": {
+   "medie_bac": "18",
+   "promovare_%": "99.6"
+  },
+  "2018": {
+   "medie_bac": "23",
+   "promovare_%": "100"
+  }
+ },
+ "COLEGIUL NAŢIONAL „GRIGORE MOISIL”": {
+  "2026": {
+   "medie_bac": "21",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "26",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "28",
+   "promovare_%": "99.5"
+  },
+  "2023": {
+   "medie_bac": "17",
+   "promovare_%": "99.5"
+  },
+  "2022": {
+   "medie_bac": "60",
+   "promovare_%": "96.9"
+  },
+  "2021": {
+   "medie_bac": "27",
+   "promovare_%": "99.5"
+  },
+  "2020": {
+   "medie_bac": "22",
+   "promovare_%": "100"
+  },
+  "2018": {
+   "medie_bac": "45",
+   "promovare_%": "99.5"
+  }
+ },
+ "COLEGIUL NAŢIONAL „I.L. CARAGIALE”": {
+  "2026": {
+   "medie_bac": "55",
+   "promovare_%": "99"
+  },
+  "2025": {
+   "medie_bac": "65",
+   "promovare_%": "99.6"
+  },
+  "2024": {
+   "medie_bac": "76",
+   "promovare_%": "99.3"
+  },
+  "2023": {
+   "medie_bac": "94",
+   "promovare_%": "98.7"
+  },
+  "2022": {
+   "medie_bac": "73",
+   "promovare_%": "99"
+  },
+  "2021": {
+   "medie_bac": "68",
+   "promovare_%": "99.3"
+  },
+  "2020": {
+   "medie_bac": "8.63",
+   "promovare_%": "98.5"
+  },
+  "2018": {
+   "medie_bac": "95",
+   "promovare_%": "97.3"
+  }
+ },
+ "COLEGIUL NAŢIONAL „ION CREANGA”": {
+  "2026": {
+   "medie_bac": "48",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "43",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "52",
+   "promovare_%": "99.6"
+  },
+  "2023": {
+   "medie_bac": "73",
+   "promovare_%": "100"
+  },
+  "2022": {
+   "medie_bac": "48",
+   "promovare_%": "99.6"
+  },
+  "2021": {
+   "medie_bac": "77",
+   "promovare_%": "98.8"
+  },
+  "2020": {
+   "medie_bac": "66",
+   "promovare_%": "100"
+  },
+  "2018": {
+   "medie_bac": "51",
+   "promovare_%": "99.1"
+  }
+ },
+ "COLEGIUL NAŢIONAL „ION NECULCE”": {
+  "2026": {
+   "medie_bac": "8.63",
+   "promovare_%": "98.3"
+  },
+  "2025": {
+   "medie_bac": "8.52",
+   "promovare_%": "98.4"
+  },
+  "2024": {
+   "medie_bac": "8.68",
+   "promovare_%": "98.7"
+  },
+  "2023": {
+   "medie_bac": "8.11",
+   "promovare_%": "95.8"
+  },
+  "2022": {
+   "medie_bac": "8.38",
+   "promovare_%": "96.3"
+  },
+  "2021": {
+   "medie_bac": "8.29",
+   "promovare_%": "95.3"
+  },
+  "2020": {
+   "medie_bac": "8.35",
+   "promovare_%": "96.5"
+  },
+  "2018": {
+   "medie_bac": "7.98",
+   "promovare_%": "94.4"
+  }
+ },
+ "COLEGIUL NAŢIONAL „IULIA HAŞDEU”": {
+  "2026": {
+   "medie_bac": "90",
+   "promovare_%": "98.4"
+  },
+  "2025": {
+   "medie_bac": "82",
+   "promovare_%": "97.5"
+  },
+  "2024": {
+   "medie_bac": "94",
+   "promovare_%": "98.6"
+  },
+  "2023": {
+   "medie_bac": "8.41",
+   "promovare_%": "98.6"
+  },
+  "2022": {
+   "medie_bac": "8.73",
+   "promovare_%": "97.3"
+  },
+  "2021": {
+   "medie_bac": "93",
+   "promovare_%": "99.6"
+  },
+  "2020": {
+   "medie_bac": "92",
+   "promovare_%": "98.5"
+  },
+  "2018": {
+   "medie_bac": "8.45",
+   "promovare_%": "97.9"
+  }
+ },
+ "COLEGIUL NAŢIONAL „MATEI BASARAB”": {
+  "2026": {
+   "medie_bac": "47",
+   "promovare_%": "99.3"
+  },
+  "2025": {
+   "medie_bac": "40",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "44",
+   "promovare_%": "99.6"
+  },
+  "2023": {
+   "medie_bac": "44",
+   "promovare_%": "99.6"
+  },
+  "2022": {
+   "medie_bac": "51",
+   "promovare_%": "99"
+  },
+  "2021": {
+   "medie_bac": "39",
+   "promovare_%": "99.6"
+  },
+  "2020": {
+   "medie_bac": "42",
+   "promovare_%": "98.8"
+  },
+  "2018": {
+   "medie_bac": "41",
+   "promovare_%": "99.3"
+  }
+ },
+ "COLEGIUL NAŢIONAL „MIHAI EMINESCU”": {
+  "2026": {
+   "medie_bac": "8.73",
+   "promovare_%": "97.6"
+  },
+  "2025": {
+   "medie_bac": "8.71",
+   "promovare_%": "99.5"
+  },
+  "2024": {
+   "medie_bac": "8.81",
+   "promovare_%": "98.7"
+  },
+  "2023": {
+   "medie_bac": "8.33",
+   "promovare_%": "98.5"
+  },
+  "2022": {
+   "medie_bac": "8.76",
+   "promovare_%": "99"
+  },
+  "2021": {
+   "medie_bac": "8.38",
+   "promovare_%": "98.9"
+  },
+  "2020": {
+   "medie_bac": "8.51",
+   "promovare_%": "96.2"
+  },
+  "2018": {
+   "medie_bac": "8.46",
+   "promovare_%": "98.6"
+  }
+ },
+ "COLEGIUL NAŢIONAL „MIHAI VITEAZUL”": {
+  "2026": {
+   "medie_bac": "67",
+   "promovare_%": "99.2"
+  },
+  "2025": {
+   "medie_bac": "36",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "31",
+   "promovare_%": "99.3"
+  },
+  "2023": {
+   "medie_bac": "34",
+   "promovare_%": "99.7"
+  },
+  "2022": {
+   "medie_bac": "26",
+   "promovare_%": "99.6"
+  },
+  "2021": {
+   "medie_bac": "18",
+   "promovare_%": "99.7"
+  },
+  "2020": {
+   "medie_bac": "13",
+   "promovare_%": "100"
+  },
+  "2018": {
+   "medie_bac": "16",
+   "promovare_%": "100"
+  }
+ },
+ "COLEGIUL NAŢIONAL „OCTAV ONICESCU”": {
+  "2026": {
+   "medie_bac": "8.17",
+   "promovare_%": "95"
+  },
+  "2025": {
+   "medie_bac": "8.00",
+   "promovare_%": "98.1"
+  },
+  "2024": {
+   "medie_bac": "8.30",
+   "promovare_%": "99.5"
+  },
+  "2023": {
+   "medie_bac": "7.85",
+   "promovare_%": "94.7"
+  },
+  "2022": {
+   "medie_bac": "8.24",
+   "promovare_%": "96.3"
+  },
+  "2021": {
+   "medie_bac": "7.68",
+   "promovare_%": "91.8"
+  },
+  "2020": {
+   "medie_bac": "7.64",
+   "promovare_%": "84.2"
+  },
+  "2018": {
+   "medie_bac": "7.57",
+   "promovare_%": "83.2"
+  }
+ },
+ "COLEGIUL NAŢIONAL „SFÂNTUL SAVA”": {
+  "2026": {
+   "medie_bac": "5",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "5",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "2",
+   "promovare_%": "99.2"
+  },
+  "2023": {
+   "medie_bac": "11",
+   "promovare_%": "98.9"
+  },
+  "2022": {
+   "medie_bac": "2",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "3",
+   "promovare_%": "99.6"
+  },
+  "2020": {
+   "medie_bac": "3",
+   "promovare_%": "99.2"
+  },
+  "2018": {
+   "medie_bac": "4",
+   "promovare_%": "99.6"
+  }
+ },
+ "COLEGIUL NAŢIONAL „SPIRU HARET”": {
+  "2026": {
+   "medie_bac": "11",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "25",
+   "promovare_%": "99.5"
+  },
+  "2024": {
+   "medie_bac": "21",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "25",
+   "promovare_%": "99.2"
+  },
+  "2022": {
+   "medie_bac": "22",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "21",
+   "promovare_%": "100"
+  },
+  "2020": {
+   "medie_bac": "31",
+   "promovare_%": "97.8"
+  },
+  "2018": {
+   "medie_bac": "31",
+   "promovare_%": "99.6"
+  }
+ },
+ "COLEGIUL NAŢIONAL „TUDOR VLADIMIRESCU”": {
+  "2026": {
+   "medie_bac": "8.45",
+   "promovare_%": "97.7"
+  },
+  "2025": {
+   "medie_bac": "7.98",
+   "promovare_%": "92.8"
+  },
+  "2024": {
+   "medie_bac": "8.35",
+   "promovare_%": "98.2"
+  },
+  "2023": {
+   "medie_bac": "8.04",
+   "promovare_%": "95.6"
+  },
+  "2022": {
+   "medie_bac": "7.74",
+   "promovare_%": "94.8"
+  },
+  "2021": {
+   "medie_bac": "7.93",
+   "promovare_%": "94"
+  },
+  "2020": {
+   "medie_bac": "8.31",
+   "promovare_%": "95.7"
+  },
+  "2018": {
+   "medie_bac": "7.70",
+   "promovare_%": "90.9"
+  }
+ },
+ "COLEGIUL NAŢIONAL „VICTOR BABEŞ”": {
+  "2026": {
+   "medie_bac": "8.24",
+   "promovare_%": "97.7"
+  },
+  "2025": {
+   "medie_bac": "8.10",
+   "promovare_%": "97.5"
+  },
+  "2024": {
+   "medie_bac": "8.40",
+   "promovare_%": "97.9"
+  },
+  "2023": {
+   "medie_bac": "7.77",
+   "promovare_%": "95.1"
+  },
+  "2022": {
+   "medie_bac": "7.82",
+   "promovare_%": "93"
+  },
+  "2021": {
+   "medie_bac": "7.46",
+   "promovare_%": "86.5"
+  },
+  "2020": {
+   "medie_bac": "7.64",
+   "promovare_%": "91.3"
+  },
+  "2018": {
+   "medie_bac": "7.85",
+   "promovare_%": "98.1"
+  }
+ },
+ "COLEGIUL NAŢIONAL „ŞCOALA CENTRALĂ”": {
+  "2026": {
+   "medie_bac": "8.46",
+   "promovare_%": "97.9"
+  },
+  "2025": {
+   "medie_bac": "8.50",
+   "promovare_%": "97"
+  },
+  "2024": {
+   "medie_bac": "8.60",
+   "promovare_%": "99.6"
+  },
+  "2023": {
+   "medie_bac": "8.17",
+   "promovare_%": "97.2"
+  },
+  "2022": {
+   "medie_bac": "8.50",
+   "promovare_%": "96.3"
+  },
+  "2021": {
+   "medie_bac": "8.09",
+   "promovare_%": "95"
+  },
+  "2020": {
+   "medie_bac": "8.31",
+   "promovare_%": "95.9"
+  },
+  "2018": {
+   "medie_bac": "8.25",
+   "promovare_%": "99.1"
+  }
+ },
+ "COLEGIUL TEHNIC DE AERONAUTICĂ „HENRI COANDĂ”": {
+  "2026": {
+   "medie_bac": "6.47",
+   "promovare_%": "65.1"
+  },
+  "2025": {
+   "medie_bac": "6.17",
+   "promovare_%": "53.2"
+  },
+  "2024": {
+   "medie_bac": "6.93",
+   "promovare_%": "76.9"
+  },
+  "2023": {
+   "medie_bac": "6.13",
+   "promovare_%": "56"
+  },
+  "2022": {
+   "medie_bac": "5.84",
+   "promovare_%": "45.2"
+  },
+  "2021": {
+   "medie_bac": "5.65",
+   "promovare_%": "50"
+  },
+  "2020": {
+   "medie_bac": "4.88",
+   "promovare_%": "31.3"
+  },
+  "2018": {
+   "medie_bac": "6.15",
+   "promovare_%": "52"
+  }
+ },
+ "COLEGIUL TEHNIC DE ARHITECTURĂ ŞI LUCRARI PUBLICE „IOAN. N. SOCOLESCU”": {
+  "2026": {
+   "medie_bac": "7.18",
+   "promovare_%": "80.1"
+  },
+  "2025": {
+   "medie_bac": "6.80",
+   "promovare_%": "64.5"
+  },
+  "2024": {
+   "medie_bac": "6.86",
+   "promovare_%": "75.8"
+  },
+  "2023": {
+   "medie_bac": "5.96",
+   "promovare_%": "51.1"
+  },
+  "2022": {
+   "medie_bac": "6.37",
+   "promovare_%": "55.6"
+  },
+  "2021": {
+   "medie_bac": "6.08",
+   "promovare_%": "47.4"
+  },
+  "2020": {
+   "medie_bac": "6.42",
+   "promovare_%": "58.2"
+  },
+  "2018": {
+   "medie_bac": "6.39",
+   "promovare_%": "61.8"
+  }
+ },
+ "COLEGIUL TEHNIC DE POŞTĂ ŞI TELECOMUNICAŢII „GHEORGHE AIRINEI”": {
+  "2026": {
+   "medie_bac": "6.59",
+   "promovare_%": "67"
+  },
+  "2025": {
+   "medie_bac": "6.52",
+   "promovare_%": "63.7"
+  },
+  "2024": {
+   "medie_bac": "6.88",
+   "promovare_%": "75.3"
+  },
+  "2023": {
+   "medie_bac": "6.26",
+   "promovare_%": "60.4"
+  },
+  "2022": {
+   "medie_bac": "5.66",
+   "promovare_%": "46.4"
+  },
+  "2021": {
+   "medie_bac": "5.35",
+   "promovare_%": "34"
+  },
+  "2020": {
+   "medie_bac": "5.36",
+   "promovare_%": "33.1"
+  },
+  "2018": {
+   "medie_bac": "5.49",
+   "promovare_%": "36.5"
+  }
+ },
+ "COLEGIUL TEHNIC ENERGETIC": {
+  "2026": {
+   "medie_bac": "6.47",
+   "promovare_%": "66.1"
+  },
+  "2025": {
+   "medie_bac": "6.74",
+   "promovare_%": "68"
+  },
+  "2024": {
+   "medie_bac": "6.79",
+   "promovare_%": "69.1"
+  },
+  "2023": {
+   "medie_bac": "6.24",
+   "promovare_%": "60.9"
+  },
+  "2022": {
+   "medie_bac": "6.30",
+   "promovare_%": "64.6"
+  },
+  "2021": {
+   "medie_bac": "5.78",
+   "promovare_%": "48.6"
+  },
+  "2020": {
+   "medie_bac": "5.01",
+   "promovare_%": "28.6"
+  },
+  "2018": {
+   "medie_bac": "4.04",
+   "promovare_%": "8"
+  }
+ },
+ "COLEGIUL TEHNIC FEROVIAR „MIHAI I”": {
+  "2026": {
+   "medie_bac": "6.09",
+   "promovare_%": "55.9"
+  },
+  "2025": {
+   "medie_bac": "6.64",
+   "promovare_%": "67.9"
+  },
+  "2024": {
+   "medie_bac": "6.82",
+   "promovare_%": "70.4"
+  },
+  "2023": {
+   "medie_bac": "5.84",
+   "promovare_%": "52.7"
+  },
+  "2022": {
+   "medie_bac": "5.83",
+   "promovare_%": "52.3"
+  },
+  "2021": {
+   "medie_bac": "6.14",
+   "promovare_%": "60.8"
+  },
+  "2020": {
+   "medie_bac": "5.41",
+   "promovare_%": "45.1"
+  },
+  "2018": {
+   "medie_bac": "6.06",
+   "promovare_%": "59.2"
+  }
+ },
+ "COLEGIUL TEHNIC „CAROL I”": {
+  "2026": {
+   "medie_bac": "5.33",
+   "promovare_%": "37.2"
+  },
+  "2025": {
+   "medie_bac": "4.77",
+   "promovare_%": "19.4"
+  },
+  "2024": {
+   "medie_bac": "6.07",
+   "promovare_%": "54.4"
+  },
+  "2023": {
+   "medie_bac": "5.47",
+   "promovare_%": "41.3"
+  },
+  "2022": {
+   "medie_bac": "4.32",
+   "promovare_%": "23.1"
+  },
+  "2021": {
+   "medie_bac": "3.88",
+   "promovare_%": "2.4"
+  },
+  "2020": {
+   "medie_bac": "4.85",
+   "promovare_%": "13.3"
+  },
+  "2018": {
+   "medie_bac": "4.31",
+   "promovare_%": "20"
+  }
+ },
+ "COLEGIUL TEHNIC „COSTIN D. NENIŢESCU”": {
+  "2026": {
+   "medie_bac": "6.10",
+   "promovare_%": "55.9"
+  },
+  "2025": {
+   "medie_bac": "5.65",
+   "promovare_%": "41.5"
+  },
+  "2024": {
+   "medie_bac": "7.01",
+   "promovare_%": "80.5"
+  },
+  "2023": {
+   "medie_bac": "6.10",
+   "promovare_%": "52.9"
+  },
+  "2022": {
+   "medie_bac": "5.95",
+   "promovare_%": "53.6"
+  },
+  "2021": {
+   "medie_bac": "5.27",
+   "promovare_%": "25"
+  },
+  "2020": {
+   "medie_bac": "4.95",
+   "promovare_%": "21.6"
+  },
+  "2018": {
+   "medie_bac": "4.79",
+   "promovare_%": "23.7"
+  }
+ },
+ "COLEGIUL TEHNIC „DIMITRIE LEONIDA”": {
+  "2026": {
+   "medie_bac": "5.33",
+   "promovare_%": "37.5"
+  },
+  "2025": {
+   "medie_bac": "4.47",
+   "promovare_%": "18.8"
+  },
+  "2024": {
+   "medie_bac": "6.13",
+   "promovare_%": "50.5"
+  },
+  "2023": {
+   "medie_bac": "5.37",
+   "promovare_%": "42.7"
+  },
+  "2022": {
+   "medie_bac": "4.57",
+   "promovare_%": "19.1"
+  },
+  "2021": {
+   "medie_bac": "3.77",
+   "promovare_%": "3.6"
+  },
+  "2020": {
+   "medie_bac": "4.04",
+   "promovare_%": "9"
+  },
+  "2018": {
+   "medie_bac": "4.22",
+   "promovare_%": "9.5"
+  }
+ },
+ "COLEGIUL TEHNIC „DINICU GOLESCU”": {
+  "2026": {
+   "medie_bac": "7.25",
+   "promovare_%": "86.2"
+  },
+  "2025": {
+   "medie_bac": "6.19",
+   "promovare_%": "53.3"
+  },
+  "2024": {
+   "medie_bac": "6.52",
+   "promovare_%": "61.1"
+  },
+  "2023": {
+   "medie_bac": "5.47",
+   "promovare_%": "41.4"
+  },
+  "2022": {
+   "medie_bac": "5.33",
+   "promovare_%": "37.3"
+  },
+  "2021": {
+   "medie_bac": "5.67",
+   "promovare_%": "49.2"
+  },
+  "2020": {
+   "medie_bac": "5.41",
+   "promovare_%": "35.8"
+  },
+  "2018": {
+   "medie_bac": "5.72",
+   "promovare_%": "40.9"
+  }
+ },
+ "COLEGIUL TEHNIC „EDMOND NICOLAU”": {
+  "2026": {
+   "medie_bac": "4.99",
+   "promovare_%": "34.6"
+  },
+  "2025": {
+   "medie_bac": "5.56",
+   "promovare_%": "43.3"
+  },
+  "2024": {
+   "medie_bac": "5.91",
+   "promovare_%": "43.2"
+  },
+  "2023": {
+   "medie_bac": "4.49",
+   "promovare_%": "28.9"
+  },
+  "2022": {
+   "medie_bac": "4.88",
+   "promovare_%": "25"
+  },
+  "2021": {
+   "medie_bac": "4.76",
+   "promovare_%": "27.6"
+  },
+  "2020": {
+   "medie_bac": "5.11",
+   "promovare_%": "32.4"
+  },
+  "2018": {
+   "medie_bac": "4.92",
+   "promovare_%": "30"
+  }
+ },
+ "COLEGIUL TEHNIC „GHEORGHE ASACHI”": {
+  "2026": {
+   "medie_bac": "6.90",
+   "promovare_%": "77"
+  },
+  "2025": {
+   "medie_bac": "6.13",
+   "promovare_%": "57.3"
+  },
+  "2024": {
+   "medie_bac": "6.98",
+   "promovare_%": "77.1"
+  },
+  "2023": {
+   "medie_bac": "7.10",
+   "promovare_%": "82.9"
+  },
+  "2022": {
+   "medie_bac": "6.65",
+   "promovare_%": "70.4"
+  },
+  "2021": {
+   "medie_bac": "6.60",
+   "promovare_%": "75"
+  },
+  "2020": {
+   "medie_bac": "5.32",
+   "promovare_%": "31.3"
+  },
+  "2018": {
+   "medie_bac": "6.19",
+   "promovare_%": "57.1"
+  }
+ },
+ "COLEGIUL TEHNIC „IULIU MANIU”": {
+  "2026": {
+   "medie_bac": "6.47",
+   "promovare_%": "63.6"
+  },
+  "2025": {
+   "medie_bac": "6.26",
+   "promovare_%": "56.7"
+  },
+  "2024": {
+   "medie_bac": "6.38",
+   "promovare_%": "64.8"
+  },
+  "2023": {
+   "medie_bac": "6.04",
+   "promovare_%": "56.8"
+  },
+  "2022": {
+   "medie_bac": "5.47",
+   "promovare_%": "38.5"
+  },
+  "2021": {
+   "medie_bac": "5.41",
+   "promovare_%": "44.7"
+  },
+  "2020": {
+   "medie_bac": "5.89",
+   "promovare_%": "44.4"
+  },
+  "2018": {
+   "medie_bac": "4.17",
+   "promovare_%": "12"
+  }
+ },
+ "COLEGIUL TEHNIC „MEDIA”": {
+  "2026": {
+   "medie_bac": "6.21",
+   "promovare_%": "57"
+  },
+  "2025": {
+   "medie_bac": "5.36",
+   "promovare_%": "40"
+  },
+  "2024": {
+   "medie_bac": "6.13",
+   "promovare_%": "53.6"
+  },
+  "2023": {
+   "medie_bac": "5.41",
+   "promovare_%": "40.6"
+  },
+  "2022": {
+   "medie_bac": "4.90",
+   "promovare_%": "30.3"
+  },
+  "2021": {
+   "medie_bac": "5.15",
+   "promovare_%": "31.2"
+  },
+  "2020": {
+   "medie_bac": "5.06",
+   "promovare_%": "28"
+  },
+  "2018": {
+   "medie_bac": "5.01",
+   "promovare_%": "29.5"
+  }
+ },
+ "COLEGIUL TEHNIC „MIHAI BRAVU”": {
+  "2026": {
+   "medie_bac": "6.36",
+   "promovare_%": "64"
+  },
+  "2025": {
+   "medie_bac": "6.04",
+   "promovare_%": "43.4"
+  },
+  "2024": {
+   "medie_bac": "6.34",
+   "promovare_%": "57.6"
+  },
+  "2023": {
+   "medie_bac": "6.48",
+   "promovare_%": "64.4"
+  },
+  "2022": {
+   "medie_bac": "5.95",
+   "promovare_%": "61.5"
+  },
+  "2021": {
+   "medie_bac": "5.58",
+   "promovare_%": "39.4"
+  },
+  "2020": {
+   "medie_bac": "4.82",
+   "promovare_%": "34.2"
+  },
+  "2018": {
+   "medie_bac": "5.00",
+   "promovare_%": "24.1"
+  }
+ },
+ "COLEGIUL TEHNIC „MIRCEA CEL BĂTRÂN”": {
+  "2026": {
+   "medie_bac": "6.22",
+   "promovare_%": "62.8"
+  },
+  "2025": {
+   "medie_bac": "6.21",
+   "promovare_%": "60"
+  },
+  "2024": {
+   "medie_bac": "6.53",
+   "promovare_%": "68.6"
+  },
+  "2023": {
+   "medie_bac": "5.81",
+   "promovare_%": "42.9"
+  },
+  "2022": {
+   "medie_bac": "5.63",
+   "promovare_%": "41.2"
+  },
+  "2021": {
+   "medie_bac": "6.09",
+   "promovare_%": "47.4"
+  },
+  "2020": {
+   "medie_bac": "4.89",
+   "promovare_%": "27.1"
+  },
+  "2018": {
+   "medie_bac": "5.87",
+   "promovare_%": "47.6"
+  }
+ },
+ "COLEGIUL TEHNIC „PETRU MAIOR”": {
+  "2026": {
+   "medie_bac": "7.20",
+   "promovare_%": "81.1"
+  },
+  "2025": {
+   "medie_bac": "6.61",
+   "promovare_%": "67.2"
+  },
+  "2024": {
+   "medie_bac": "7.11",
+   "promovare_%": "74.1"
+  },
+  "2023": {
+   "medie_bac": "6.66",
+   "promovare_%": "66.2"
+  },
+  "2022": {
+   "medie_bac": "6.59",
+   "promovare_%": "72.7"
+  },
+  "2021": {
+   "medie_bac": "6.23",
+   "promovare_%": "56.2"
+  },
+  "2020": {
+   "medie_bac": "6.07",
+   "promovare_%": "52.4"
+  },
+  "2018": {
+   "medie_bac": "5.69",
+   "promovare_%": "46"
+  }
+ },
+ "COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”": {
+  "2026": {
+   "medie_bac": "7.01",
+   "promovare_%": "76.3"
+  },
+  "2025": {
+   "medie_bac": "7.30",
+   "promovare_%": "83.3"
+  },
+  "2024": {
+   "medie_bac": "6.80",
+   "promovare_%": "72.3"
+  },
+  "2023": {
+   "medie_bac": "6.69",
+   "promovare_%": "75.3"
+  },
+  "2022": {
+   "medie_bac": "6.77",
+   "promovare_%": "80"
+  },
+  "2021": {
+   "medie_bac": "5.93",
+   "promovare_%": "50"
+  },
+  "2020": {
+   "medie_bac": "4.50",
+   "promovare_%": "16.5"
+  },
+  "2018": {
+   "medie_bac": "5.78",
+   "promovare_%": "44.7"
+  }
+ },
+ "LICEUL CU PROGRAM SPORTIV „MIRCEA ELIADE”": {
+  "2026": {
+   "medie_bac": "7.06",
+   "promovare_%": "77.8"
+  },
+  "2025": {
+   "medie_bac": "7.08",
+   "promovare_%": "78.3"
+  },
+  "2024": {
+   "medie_bac": "7.25",
+   "promovare_%": "80.2"
+  },
+  "2023": {
+   "medie_bac": "6.94",
+   "promovare_%": "78.1"
+  },
+  "2022": {
+   "medie_bac": "6.31",
+   "promovare_%": "57.9"
+  },
+  "2021": {
+   "medie_bac": "6.62",
+   "promovare_%": "65.8"
+  },
+  "2020": {
+   "medie_bac": "7.20",
+   "promovare_%": "78.7"
+  },
+  "2018": {
+   "medie_bac": "6.34",
+   "promovare_%": "59.2"
+  }
+ },
+ "LICEUL ECONOMIC NR. 1": {
+  "2026": {
+   "medie_bac": "6.16",
+   "promovare_%": "56.8"
+  },
+  "2025": {
+   "medie_bac": "6.51",
+   "promovare_%": "68.3"
+  },
+  "2024": {
+   "medie_bac": "7.25",
+   "promovare_%": "84.3"
+  },
+  "2022": {
+   "medie_bac": "6.69",
+   "promovare_%": "74.8"
+  },
+  "2021": {
+   "medie_bac": "6.04",
+   "promovare_%": "57.8"
+  },
+  "2020": {
+   "medie_bac": "6.67",
+   "promovare_%": "72.1"
+  },
+  "2018": {
+   "medie_bac": "6.45",
+   "promovare_%": "59.9"
+  }
+ },
+ "LICEUL GRECO-CATOLIC „TIMOTEI CIPARIU”": {
+  "2026": {
+   "medie_bac": "7.50",
+   "promovare_%": "89.5"
+  },
+  "2025": {
+   "medie_bac": "7.71",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "7.99",
+   "promovare_%": "97.2"
+  },
+  "2023": {
+   "medie_bac": "7.05",
+   "promovare_%": "77.6"
+  },
+  "2022": {
+   "medie_bac": "7.27",
+   "promovare_%": "80.8"
+  },
+  "2021": {
+   "medie_bac": "7.13",
+   "promovare_%": "92.3"
+  },
+  "2020": {
+   "medie_bac": "7.02",
+   "promovare_%": "68.1"
+  },
+  "2018": {
+   "medie_bac": "6.95",
+   "promovare_%": "77.4"
+  }
+ },
+ "LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”": {
+  "2026": {
+   "medie_bac": "5.66",
+   "promovare_%": "42.9"
+  },
+  "2025": {
+   "medie_bac": "6.09",
+   "promovare_%": "53.5"
+  },
+  "2024": {
+   "medie_bac": "6.57",
+   "promovare_%": "69.5"
+  },
+  "2023": {
+   "medie_bac": "5.43",
+   "promovare_%": "36.2"
+  },
+  "2022": {
+   "medie_bac": "4.50",
+   "promovare_%": "15.5"
+  },
+  "2021": {
+   "medie_bac": "4.39",
+   "promovare_%": "15.9"
+  },
+  "2020": {
+   "medie_bac": "4.30",
+   "promovare_%": "13.6"
+  },
+  "2018": {
+   "medie_bac": "4.06",
+   "promovare_%": "3.8"
+  }
+ },
+ "LICEUL TEHNOLOGIC THEODOR PALLADY": {
+  "2026": {
+   "medie_bac": "5.26",
+   "promovare_%": "42.3"
+  },
+  "2025": {
+   "medie_bac": "4.86",
+   "promovare_%": "36"
+  },
+  "2024": {
+   "medie_bac": "5.08",
+   "promovare_%": "21.1"
+  },
+  "2023": {
+   "medie_bac": "4.01",
+   "promovare_%": "5"
+  },
+  "2022": {
+   "medie_bac": "3.73",
+   "promovare_%": "0"
+  },
+  "2021": {
+   "medie_bac": "4.55",
+   "promovare_%": "31.6"
+  },
+  "2020": {
+   "medie_bac": "5.38",
+   "promovare_%": "44.4"
+  },
+  "2018": {
+   "medie_bac": "3.75",
+   "promovare_%": "5.6"
+  }
+ },
+ "LICEUL TEHNOLOGIC „DIMITRIE GUSTI”": {
+  "2026": {
+   "medie_bac": "6.81",
+   "promovare_%": "71.3"
+  },
+  "2025": {
+   "medie_bac": "5.69",
+   "promovare_%": "50"
+  },
+  "2024": {
+   "medie_bac": "6.19",
+   "promovare_%": "57.1"
+  },
+  "2023": {
+   "medie_bac": "6.18",
+   "promovare_%": "64.8"
+  },
+  "2022": {
+   "medie_bac": "5.84",
+   "promovare_%": "53.3"
+  },
+  "2021": {
+   "medie_bac": "5.28",
+   "promovare_%": "40"
+  },
+  "2020": {
+   "medie_bac": "5.08",
+   "promovare_%": "27.2"
+  },
+  "2018": {
+   "medie_bac": "4.78",
+   "promovare_%": "31.5"
+  }
+ },
+ "LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”": {
+  "2026": {
+   "medie_bac": "5.82",
+   "promovare_%": "51.7"
+  },
+  "2025": {
+   "medie_bac": "4.92",
+   "promovare_%": "25"
+  },
+  "2024": {
+   "medie_bac": "5.77",
+   "promovare_%": "44.8"
+  },
+  "2023": {
+   "medie_bac": "5.48",
+   "promovare_%": "41.4"
+  },
+  "2022": {
+   "medie_bac": "5.17",
+   "promovare_%": "39"
+  },
+  "2021": {
+   "medie_bac": "4.65",
+   "promovare_%": "15"
+  },
+  "2020": {
+   "medie_bac": "5.42",
+   "promovare_%": "27.3"
+  },
+  "2018": {
+   "medie_bac": "5.45",
+   "promovare_%": "31"
+  }
+ },
+ "LICEUL TEHNOLOGIC „ELIE RADU”": {
+  "2026": {
+   "medie_bac": "6.04",
+   "promovare_%": "56.3"
+  },
+  "2025": {
+   "medie_bac": "6.50",
+   "promovare_%": "65"
+  },
+  "2024": {
+   "medie_bac": "6.72",
+   "promovare_%": "72.7"
+  },
+  "2023": {
+   "medie_bac": "6.08",
+   "promovare_%": "52.1"
+  },
+  "2022": {
+   "medie_bac": "5.13",
+   "promovare_%": "21.6"
+  },
+  "2021": {
+   "medie_bac": "5.60",
+   "promovare_%": "38.9"
+  },
+  "2020": {
+   "medie_bac": "5.98",
+   "promovare_%": "47.6"
+  },
+  "2018": {
+   "medie_bac": "4.94",
+   "promovare_%": "22.7"
+  }
+ },
+ "LICEUL TEHNOLOGIC „NIKOLA TESLA”": {
+  "2026": {
+   "medie_bac": "6.52",
+   "promovare_%": "68.7"
+  },
+  "2025": {
+   "medie_bac": "5.57",
+   "promovare_%": "43.3"
+  },
+  "2024": {
+   "medie_bac": "5.44",
+   "promovare_%": "42.9"
+  },
+  "2023": {
+   "medie_bac": "4.17",
+   "promovare_%": "17.5"
+  },
+  "2022": {
+   "medie_bac": "4.72",
+   "promovare_%": "30.8"
+  },
+  "2021": {
+   "medie_bac": "3.65",
+   "promovare_%": "7.1"
+  },
+  "2020": {
+   "medie_bac": "3.75",
+   "promovare_%": "0"
+  },
+  "2018": {
+   "medie_bac": "4.31",
+   "promovare_%": "11.5"
+  }
+ },
+ "LICEUL TEHNOLOGIC „PETRU PONI”": {
+  "2026": {
+   "medie_bac": "5.46",
+   "promovare_%": "40.3"
+  },
+  "2025": {
+   "medie_bac": "6.33",
+   "promovare_%": "47.4"
+  },
+  "2024": {
+   "medie_bac": "5.48",
+   "promovare_%": "42"
+  },
+  "2023": {
+   "medie_bac": "4.25",
+   "promovare_%": "22"
+  },
+  "2022": {
+   "medie_bac": "3.66",
+   "promovare_%": "14.6"
+  },
+  "2021": {
+   "medie_bac": "3.59",
+   "promovare_%": "9.4"
+  },
+  "2020": {
+   "medie_bac": "4.04",
+   "promovare_%": "8.9"
+  },
+  "2018": {
+   "medie_bac": "2.84",
+   "promovare_%": "0"
+  }
+ },
+ "LICEUL TEHNOLOGIC „SF. ANTIM IVIREANU”": {
+  "2026": {
+   "medie_bac": "7.26",
+   "promovare_%": "84.4"
+  },
+  "2025": {
+   "medie_bac": "6.50",
+   "promovare_%": "64.3"
+  },
+  "2024": {
+   "medie_bac": "7.53",
+   "promovare_%": "89.1"
+  },
+  "2023": {
+   "medie_bac": "7.70",
+   "promovare_%": "93.5"
+  },
+  "2022": {
+   "medie_bac": "7.20",
+   "promovare_%": "86.2"
+  },
+  "2021": {
+   "medie_bac": "7.03",
+   "promovare_%": "74.2"
+  },
+  "2020": {
+   "medie_bac": "7.94",
+   "promovare_%": "93.3"
+  },
+  "2018": {
+   "medie_bac": "6.69",
+   "promovare_%": "75"
+  }
+ },
+ "LICEUL TEHNOLOGIC „SFÂNTUL PANTELIMON”": {
+  "2026": {
+   "medie_bac": "5.92",
+   "promovare_%": "52.9"
+  },
+  "2025": {
+   "medie_bac": "5.34",
+   "promovare_%": "33.3"
+  },
+  "2024": {
+   "medie_bac": "6.51",
+   "promovare_%": "60"
+  },
+  "2023": {
+   "medie_bac": "6.06",
+   "promovare_%": "50"
+  },
+  "2022": {
+   "medie_bac": "5.35",
+   "promovare_%": "38.3"
+  },
+  "2021": {
+   "medie_bac": "4.68",
+   "promovare_%": "23.9"
+  },
+  "2020": {
+   "medie_bac": "4.58",
+   "promovare_%": "22.3"
+  },
+  "2018": {
+   "medie_bac": "4.03",
+   "promovare_%": "16.7"
+  }
+ },
+ "LICEUL TEOLOGIC ADVENTIST ”ŞTEFAN DEMETRESCU”": {
+  "2026": {
+   "medie_bac": "8.08",
+   "promovare_%": "99"
+  },
+  "2025": {
+   "medie_bac": "8.17",
+   "promovare_%": "95.1"
+  },
+  "2024": {
+   "medie_bac": "8.20",
+   "promovare_%": "94"
+  },
+  "2023": {
+   "medie_bac": "7.97",
+   "promovare_%": "93.5"
+  },
+  "2022": {
+   "medie_bac": "8.01",
+   "promovare_%": "94.1"
+  },
+  "2021": {
+   "medie_bac": "8.23",
+   "promovare_%": "96.1"
+  },
+  "2020": {
+   "medie_bac": "8.23",
+   "promovare_%": "95.4"
+  },
+  "2018": {
+   "medie_bac": "8.45",
+   "promovare_%": "100"
+  }
+ },
+ "LICEUL TEORETIC BILINGV „ITA WEGMAN”": {
+  "2026": {
+   "medie_bac": "7.89",
+   "promovare_%": "98.2"
+  },
+  "2025": {
+   "medie_bac": "7.52",
+   "promovare_%": "84"
+  },
+  "2024": {
+   "medie_bac": "8.31",
+   "promovare_%": "96.4"
+  },
+  "2023": {
+   "medie_bac": "7.48",
+   "promovare_%": "83.9"
+  },
+  "2022": {
+   "medie_bac": "8.38",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "6.75",
+   "promovare_%": "62.5"
+  },
+  "2020": {
+   "medie_bac": "7.59",
+   "promovare_%": "87.5"
+  },
+  "2018": {
+   "medie_bac": "6.93",
+   "promovare_%": "75"
+  }
+ },
+ "LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”": {
+  "2026": {
+   "medie_bac": "8.50",
+   "promovare_%": "97.5"
+  },
+  "2025": {
+   "medie_bac": "8.43",
+   "promovare_%": "97"
+  },
+  "2024": {
+   "medie_bac": "8.66",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "7.85",
+   "promovare_%": "94.9"
+  },
+  "2022": {
+   "medie_bac": "8.27",
+   "promovare_%": "98.3"
+  },
+  "2021": {
+   "medie_bac": "8.17",
+   "promovare_%": "92.7"
+  },
+  "2020": {
+   "medie_bac": "8.36",
+   "promovare_%": "98.2"
+  },
+  "2018": {
+   "medie_bac": "8.08",
+   "promovare_%": "91.2"
+  }
+ },
+ "LICEUL TEORETIC BULGAR „HRISTO BOTEV”": {
+  "2026": {
+   "medie_bac": "7.31",
+   "promovare_%": "78.2"
+  },
+  "2025": {
+   "medie_bac": "6.27",
+   "promovare_%": "59.8"
+  },
+  "2024": {
+   "medie_bac": "7.15",
+   "promovare_%": "80.9"
+  },
+  "2023": {
+   "medie_bac": "6.37",
+   "promovare_%": "62.9"
+  },
+  "2022": {
+   "medie_bac": "6.68",
+   "promovare_%": "65"
+  },
+  "2021": {
+   "medie_bac": "5.95",
+   "promovare_%": "50.8"
+  },
+  "2020": {
+   "medie_bac": "6.03",
+   "promovare_%": "48.5"
+  },
+  "2018": {
+   "medie_bac": "6.39",
+   "promovare_%": "62.5"
+  }
+ },
+ "LICEUL TEORETIC „ADY ENDRE”": {
+  "2026": {
+   "medie_bac": "7.95",
+   "promovare_%": "100"
+  },
+  "2025": {
+   "medie_bac": "7.87",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "6.91",
+   "promovare_%": "83.3"
+  },
+  "2023": {
+   "medie_bac": "7.01",
+   "promovare_%": "53.8"
+  },
+  "2022": {
+   "medie_bac": "8.25",
+   "promovare_%": "100"
+  },
+  "2021": {
+   "medie_bac": "8.19",
+   "promovare_%": "83.3"
+  },
+  "2020": {
+   "medie_bac": "5.75",
+   "promovare_%": "44.4"
+  },
+  "2018": {
+   "medie_bac": "8.09",
+   "promovare_%": "85.7"
+  }
+ },
+ "LICEUL TEORETIC „ALEXANDRU IOAN CUZA”": {
+  "2026": {
+   "medie_bac": "73",
+   "promovare_%": "99.1"
+  },
+  "2025": {
+   "medie_bac": "94",
+   "promovare_%": "99.1"
+  },
+  "2024": {
+   "medie_bac": "66",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "84",
+   "promovare_%": "99.6"
+  },
+  "2022": {
+   "medie_bac": "92",
+   "promovare_%": "98.6"
+  },
+  "2021": {
+   "medie_bac": "8.56",
+   "promovare_%": "99.6"
+  },
+  "2020": {
+   "medie_bac": "82",
+   "promovare_%": "98.6"
+  },
+  "2018": {
+   "medie_bac": "8.40",
+   "promovare_%": "98.5"
+  }
+ },
+ "LICEUL TEORETIC „ALEXANDRU VLAHUŢĂ”": {
+  "2026": {
+   "medie_bac": "8.33",
+   "promovare_%": "96.8"
+  },
+  "2025": {
+   "medie_bac": "8.27",
+   "promovare_%": "97.8"
+  },
+  "2024": {
+   "medie_bac": "8.65",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "8.30",
+   "promovare_%": "97.8"
+  },
+  "2022": {
+   "medie_bac": "8.25",
+   "promovare_%": "94.4"
+  },
+  "2021": {
+   "medie_bac": "8.16",
+   "promovare_%": "98.8"
+  },
+  "2020": {
+   "medie_bac": "8.41",
+   "promovare_%": "96.6"
+  },
+  "2018": {
+   "medie_bac": null,
+   "promovare_%": "98.5"
+  }
+ },
+ "LICEUL TEORETIC „BENJAMIN FRANKLIN”": {
+  "2026": {
+   "medie_bac": "7.70",
+   "promovare_%": "86"
+  },
+  "2025": {
+   "medie_bac": "7.52",
+   "promovare_%": "90.3"
+  },
+  "2024": {
+   "medie_bac": "8.00",
+   "promovare_%": "97"
+  },
+  "2023": {
+   "medie_bac": "7.40",
+   "promovare_%": "91.5"
+  },
+  "2022": {
+   "medie_bac": "7.12",
+   "promovare_%": "81.2"
+  },
+  "2021": {
+   "medie_bac": "7.09",
+   "promovare_%": "79.4"
+  },
+  "2020": {
+   "medie_bac": "7.54",
+   "promovare_%": "81.4"
+  },
+  "2018": {
+   "medie_bac": "7.03",
+   "promovare_%": "74"
+  }
+ },
+ "LICEUL TEORETIC „C.A. ROSETTI”": {
+  "2026": {
+   "medie_bac": "8.39",
+   "promovare_%": "98.7"
+  },
+  "2025": {
+   "medie_bac": "8.03",
+   "promovare_%": "96.8"
+  },
+  "2024": {
+   "medie_bac": "8.40",
+   "promovare_%": "96.8"
+  },
+  "2023": {
+   "medie_bac": "7.84",
+   "promovare_%": "94.3"
+  },
+  "2022": {
+   "medie_bac": "8.09",
+   "promovare_%": "97.1"
+  },
+  "2021": {
+   "medie_bac": "8.02",
+   "promovare_%": "95.6"
+  },
+  "2020": {
+   "medie_bac": "7.70",
+   "promovare_%": "89.1"
+  },
+  "2018": {
+   "medie_bac": "7.70",
+   "promovare_%": "89"
+  }
+ },
+ "LICEUL TEORETIC „DANTE ALIGHIERI”": {
+  "2026": {
+   "medie_bac": "8.13",
+   "promovare_%": "93.7"
+  },
+  "2025": {
+   "medie_bac": "7.82",
+   "promovare_%": "92.1"
+  },
+  "2024": {
+   "medie_bac": "8.17",
+   "promovare_%": "92.7"
+  },
+  "2023": {
+   "medie_bac": "7.51",
+   "promovare_%": "87.4"
+  },
+  "2022": {
+   "medie_bac": "7.62",
+   "promovare_%": "88.1"
+  },
+  "2021": {
+   "medie_bac": "7.42",
+   "promovare_%": "84.3"
+  },
+  "2020": {
+   "medie_bac": "7.94",
+   "promovare_%": "88.6"
+  },
+  "2018": {
+   "medie_bac": "7.25",
+   "promovare_%": "77.5"
+  }
+ },
+ "LICEUL TEORETIC „DECEBAL”": {
+  "2026": {
+   "medie_bac": "7.86",
+   "promovare_%": "90.9"
+  },
+  "2025": {
+   "medie_bac": "7.30",
+   "promovare_%": "86.5"
+  },
+  "2024": {
+   "medie_bac": "7.62",
+   "promovare_%": "92.3"
+  },
+  "2023": {
+   "medie_bac": "7.25",
+   "promovare_%": "82.9"
+  },
+  "2022": {
+   "medie_bac": "6.69",
+   "promovare_%": "70"
+  },
+  "2021": {
+   "medie_bac": "6.67",
+   "promovare_%": "72.2"
+  },
+  "2020": {
+   "medie_bac": "7.30",
+   "promovare_%": "76.1"
+  },
+  "2018": {
+   "medie_bac": "6.86",
+   "promovare_%": "74"
+  }
+ },
+ "LICEUL TEORETIC „DIMITRIE BOLINTINEANU”": {
+  "2026": {
+   "medie_bac": "7.78",
+   "promovare_%": "93"
+  },
+  "2025": {
+   "medie_bac": "7.48",
+   "promovare_%": "86.4"
+  },
+  "2024": {
+   "medie_bac": "7.93",
+   "promovare_%": "96.8"
+  },
+  "2023": {
+   "medie_bac": "7.57",
+   "promovare_%": "92.1"
+  },
+  "2022": {
+   "medie_bac": "7.72",
+   "promovare_%": "93.1"
+  },
+  "2021": {
+   "medie_bac": "7.02",
+   "promovare_%": "80.8"
+  },
+  "2020": {
+   "medie_bac": "7.48",
+   "promovare_%": "85.7"
+  },
+  "2018": {
+   "medie_bac": "7.21",
+   "promovare_%": "81.6"
+  }
+ },
+ "LICEUL TEORETIC „EUGEN LOVINESCU”": {
+  "2026": {
+   "medie_bac": "8.19",
+   "promovare_%": "95.2"
+  },
+  "2025": {
+   "medie_bac": "7.82",
+   "promovare_%": "94.7"
+  },
+  "2024": {
+   "medie_bac": "8.09",
+   "promovare_%": "96.6"
+  },
+  "2023": {
+   "medie_bac": "7.94",
+   "promovare_%": "96.4"
+  },
+  "2022": {
+   "medie_bac": "7.50",
+   "promovare_%": "92"
+  },
+  "2021": {
+   "medie_bac": "7.65",
+   "promovare_%": "84.7"
+  },
+  "2020": {
+   "medie_bac": "7.78",
+   "promovare_%": "84.9"
+  },
+  "2018": {
+   "medie_bac": "7.24",
+   "promovare_%": "82.2"
+  }
+ },
+ "LICEUL TEORETIC „GEORGE CĂLINESCU”": {
+  "2026": {
+   "medie_bac": "8.23",
+   "promovare_%": "93.1"
+  },
+  "2025": {
+   "medie_bac": "8.02",
+   "promovare_%": "92.5"
+  },
+  "2024": {
+   "medie_bac": "8.40",
+   "promovare_%": "92.9"
+  },
+  "2023": {
+   "medie_bac": "7.65",
+   "promovare_%": "87.8"
+  },
+  "2022": {
+   "medie_bac": "8.11",
+   "promovare_%": "93.8"
+  },
+  "2021": {
+   "medie_bac": "7.92",
+   "promovare_%": "91.7"
+  },
+  "2020": {
+   "medie_bac": "7.79",
+   "promovare_%": "85.5"
+  },
+  "2018": {
+   "medie_bac": "7.40",
+   "promovare_%": "81.3"
+  }
+ },
+ "LICEUL TEORETIC „ION BARBU”": {
+  "2026": {
+   "medie_bac": "8.52",
+   "promovare_%": "97.3"
+  },
+  "2025": {
+   "medie_bac": "8.22",
+   "promovare_%": "97.7"
+  },
+  "2024": {
+   "medie_bac": "8.65",
+   "promovare_%": "100"
+  },
+  "2023": {
+   "medie_bac": "8.20",
+   "promovare_%": "96.7"
+  },
+  "2022": {
+   "medie_bac": "8.48",
+   "promovare_%": "97.3"
+  },
+  "2021": {
+   "medie_bac": "8.28",
+   "promovare_%": "96.5"
+  },
+  "2020": {
+   "medie_bac": "8.35",
+   "promovare_%": "96.3"
+  },
+  "2018": {
+   "medie_bac": "8.28",
+   "promovare_%": "98.8"
+  }
+ },
+ "LICEUL TEORETIC „JEAN MONNET”": {
+  "2026": {
+   "medie_bac": "8.65",
+   "promovare_%": "96.2"
+  },
+  "2025": {
+   "medie_bac": "8.52",
+   "promovare_%": "99.3"
+  },
+  "2024": {
+   "medie_bac": "8.78",
+   "promovare_%": "97.2"
+  },
+  "2023": {
+   "medie_bac": "8.27",
+   "promovare_%": "97.4"
+  },
+  "2022": {
+   "medie_bac": "8.44",
+   "promovare_%": "97.8"
+  },
+  "2021": {
+   "medie_bac": "8.40",
+   "promovare_%": "98.7"
+  },
+  "2020": {
+   "medie_bac": "8.22",
+   "promovare_%": "93"
+  },
+  "2018": {
+   "medie_bac": "8.05",
+   "promovare_%": "97"
+  }
+ },
+ "LICEUL TEORETIC „LUCIAN BLAGA”": {
+  "2026": {
+   "medie_bac": "7.77",
+   "promovare_%": "90.9"
+  },
+  "2025": {
+   "medie_bac": "7.26",
+   "promovare_%": "87.1"
+  },
+  "2024": {
+   "medie_bac": "7.63",
+   "promovare_%": "92.6"
+  },
+  "2023": {
+   "medie_bac": "7.16",
+   "promovare_%": "86.6"
+  },
+  "2022": {
+   "medie_bac": "7.27",
+   "promovare_%": "86.6"
+  },
+  "2021": {
+   "medie_bac": "6.84",
+   "promovare_%": "70.5"
+  },
+  "2020": {
+   "medie_bac": "7.33",
+   "promovare_%": "81.6"
+  },
+  "2018": {
+   "medie_bac": "6.97",
+   "promovare_%": "76.6"
+  }
+ },
+ "LICEUL TEORETIC „MARIN PREDA”": {
+  "2026": {
+   "medie_bac": "7.86",
+   "promovare_%": "92.6"
+  },
+  "2025": {
+   "medie_bac": "7.75",
+   "promovare_%": "89"
+  },
+  "2024": {
+   "medie_bac": "8.01",
+   "promovare_%": "96.1"
+  },
+  "2023": {
+   "medie_bac": "7.82",
+   "promovare_%": "94.4"
+  },
+  "2022": {
+   "medie_bac": "7.50",
+   "promovare_%": "90.7"
+  },
+  "2021": {
+   "medie_bac": "7.29",
+   "promovare_%": "80.7"
+  },
+  "2020": {
+   "medie_bac": "7.77",
+   "promovare_%": "86.4"
+  },
+  "2018": {
+   "medie_bac": "6.96",
+   "promovare_%": "78.1"
+  }
+ },
+ "LICEUL TEORETIC „MIHAIL SADOVEANU”": {
+  "2026": {
+   "medie_bac": "8.04",
+   "promovare_%": "95.5"
+  },
+  "2025": {
+   "medie_bac": "7.47",
+   "promovare_%": "86.9"
+  },
+  "2024": {
+   "medie_bac": "8.13",
+   "promovare_%": "96.1"
+  },
+  "2023": {
+   "medie_bac": "7.32",
+   "promovare_%": "84"
+  },
+  "2022": {
+   "medie_bac": "7.93",
+   "promovare_%": "94.5"
+  },
+  "2021": {
+   "medie_bac": "7.24",
+   "promovare_%": "80.2"
+  },
+  "2020": {
+   "medie_bac": "7.63",
+   "promovare_%": "88.8"
+  },
+  "2018": {
+   "medie_bac": "7.32",
+   "promovare_%": "85"
+  }
+ },
+ "LICEUL TEORETIC „NICHITA STĂNESCU”": {
+  "2026": {
+   "medie_bac": "7.69",
+   "promovare_%": "91.3"
+  },
+  "2025": {
+   "medie_bac": "7.39",
+   "promovare_%": "84"
+  },
+  "2024": {
+   "medie_bac": "7.92",
+   "promovare_%": "93.9"
+  },
+  "2023": {
+   "medie_bac": "7.15",
+   "promovare_%": "89.8"
+  },
+  "2022": {
+   "medie_bac": "7.22",
+   "promovare_%": "78.7"
+  },
+  "2021": {
+   "medie_bac": "7.09",
+   "promovare_%": "82.5"
+  },
+  "2020": {
+   "medie_bac": "7.93",
+   "promovare_%": "95.5"
+  },
+  "2018": {
+   "medie_bac": "7.11",
+   "promovare_%": "80.6"
+  }
+ },
+ "LICEUL TEORETIC „NICOLAE IORGA”": {
+  "2026": {
+   "medie_bac": "8.70",
+   "promovare_%": "98"
+  },
+  "2025": {
+   "medie_bac": "84",
+   "promovare_%": "100"
+  },
+  "2024": {
+   "medie_bac": "89",
+   "promovare_%": "99.5"
+  },
+  "2023": {
+   "medie_bac": "8.58",
+   "promovare_%": "98.9"
+  },
+  "2022": {
+   "medie_bac": "99",
+   "promovare_%": "99.4"
+  },
+  "2021": {
+   "medie_bac": "98",
+   "promovare_%": "98.9"
+  },
+  "2020": {
+   "medie_bac": "8.67",
+   "promovare_%": "97.5"
+  },
+  "2018": {
+   "medie_bac": "80",
+   "promovare_%": "97.3"
+  }
+ },
+ "LICEUL TEORETIC „TRAIAN”": {
+  "2026": {
+   "medie_bac": "7.71",
+   "promovare_%": "88.8"
+  },
+  "2025": {
+   "medie_bac": "7.01",
+   "promovare_%": "76.1"
+  },
+  "2024": {
+   "medie_bac": "7.68",
+   "promovare_%": "94.8"
+  },
+  "2023": {
+   "medie_bac": "7.06",
+   "promovare_%": "85.9"
+  },
+  "2022": {
+   "medie_bac": "7.22",
+   "promovare_%": "81.7"
+  },
+  "2021": {
+   "medie_bac": "6.44",
+   "promovare_%": "60.9"
+  },
+  "2020": {
+   "medie_bac": "6.52",
+   "promovare_%": "60.2"
+  },
+  "2018": {
+   "medie_bac": "6.50",
+   "promovare_%": "65.7"
+  }
+ },
+ "LICEUL TEORETIC „ŞTEFAN ODOBLEJA”": {
+  "2026": {
+   "medie_bac": "8.33",
+   "promovare_%": "97.4"
+  },
+  "2025": {
+   "medie_bac": "7.82",
+   "promovare_%": "91"
+  },
+  "2024": {
+   "medie_bac": "8.45",
+   "promovare_%": "96.9"
+  },
+  "2023": {
+   "medie_bac": "7.86",
+   "promovare_%": "89.7"
+  },
+  "2022": {
+   "medie_bac": "8.09",
+   "promovare_%": "96"
+  },
+  "2021": {
+   "medie_bac": "7.66",
+   "promovare_%": "89.5"
+  },
+  "2020": {
+   "medie_bac": "7.62",
+   "promovare_%": "88.1"
+  },
+  "2018": {
+   "medie_bac": "7.64",
+   "promovare_%": "93.2"
+  }
+ },
+ "LICEUL „DIMITRIE PACIUREA”": {
+  "2026": {
+   "medie_bac": "6.76",
+   "promovare_%": "66.3"
+  },
+  "2025": {
+   "medie_bac": "6.72",
+   "promovare_%": "63.1"
+  },
+  "2024": {
+   "medie_bac": "6.67",
+   "promovare_%": "67.3"
+  },
+  "2022": {
+   "medie_bac": "6.79",
+   "promovare_%": "79.2"
+  },
+  "2021": {
+   "medie_bac": "6.56",
+   "promovare_%": "62.5"
+  },
+  "2020": {
+   "medie_bac": "6.72",
+   "promovare_%": "69.5"
+  },
+  "2018": {
+   "medie_bac": "6.69",
+   "promovare_%": "72.3"
+  }
+ }
+}
