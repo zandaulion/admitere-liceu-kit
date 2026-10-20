@@ -8,6 +8,18 @@ Nu trebuie să știi programare. Trebuie doar să încarci fișierul potrivit î
 
 ---
 
+
+
+[Optional Python setup / configurarea scripturilor](SCRIPTURI.md) · [Historical data provenance](date_istorice/README.md)
+
+## In English
+
+Romanian-language guides, historical aggregate data and optional Python tools for
+Bucharest high-school admissions planning. Families can start with the linked
+Romanian guide without programming. Historical cutoffs are context, not a promise
+of admission; current official rules and calendars take precedence.
+[Public overview](https://zandaulion.com/admitere.html).
+
 ## 📂 Structura pachetului
 
 | Fișier / Folder | Descriere | Când se folosește |
@@ -20,13 +32,20 @@ Nu trebuie să știi programare. Trebuie doar să încarci fișierul potrivit î
 
 ---
 
-## 🔴 Noutate critică: Schimbarea din 2027
+## 🔴 Reguli pentru 2027: verifică sursa și stadiul
 
-Generația 2027 este **prima sub noua lege a învățământului**:
+**Notă de verificare — 20 octombrie 2026:** Ministerul a publicat la 14 august
+2026 [proiectul metodologiei pentru 2027–2028, în consultare publică](https://edu.ro/press_rel_60_2026_consultare_publica_proiect_metodologie_calendar_AdLic_27_28).
+Sursa citată aici este un proiect; acest depozit nu confirmă prin acea pagină că
+toate prevederile au fost adoptate în forma finală. Înaintea unei decizii, verifică
+ordinul final, calendarul, broșura și erata anului curent pe site-urile oficiale.
+
+Proiectul descrie următoarea posibilitate pentru 2027:
 - **Liceele pot organiza concurs propriu de admitere** pentru până la **50%** din locuri.
 - Participarea este **opțională și fără risc** — dacă nu ești admis, intri normal în repartizarea computerizată.
 - Condiție de înscriere: **minimum nota 5 la fiecare probă** de la Evaluarea Națională.
-- *Dacă un liceu dorit organizează concurs și nu participi, îți înjumătățești șansele la acel liceu.*
+- Dacă un liceu organizează concurs, verifică numărul efectiv de locuri rămas
+  pentru fiecare rută. O cotă de locuri nu măsoară probabilitatea individuală de admitere.
 
 ---
 
@@ -79,3 +98,12 @@ Generația 2027 este **prima sub noua lege a învățământului**:
 ## 📄 Licență
 
 Acest proiect este licențiat sub licența [MIT](LICENSE) — liber de utilizat, modificat și distribuit de către oricine dorește să-și ajute copilul sau comunitatea.
+
+
+## Support and contributions
+
+Use this repository’s Issues for reproducible bugs and focused feature requests. Include the version, relevant runtime/browser, expected behavior and a minimal synthetic example. Remove credentials, personal records, device identifiers and deployment-specific values before sharing logs or screenshots.
+
+For a correction to admissions guidance or data, include the official source URL, year and the exact aggregate field or paragraph affected. Do not submit individual applicant records.
+
+Keep changes focused and update the affected documentation. Security-sensitive reports should follow [SECURITY.md](SECURITY.md).
