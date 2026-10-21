@@ -1,0 +1,4 @@
+# Optional Python tools; tested with Python 3.12.
+# SPDX-License-Identifier: GPL-3.0-or-later
+numpy==2.4.2
+PyMuPDF==1.27.1

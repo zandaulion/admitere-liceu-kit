@@ -1,0 +1,20 @@
+{
+  "DEMO-A": {
+    "scoala": "LICEUL DEMO ALFA",
+    "specializare": "Specializare A",
+    "total": 2,
+    "media": 8.0
+  },
+  "DEMO-B": {
+    "scoala": "LICEUL DEMO BETA",
+    "specializare": "Specializare B",
+    "total": 2,
+    "media": 7.0
+  },
+  "DEMO-C": {
+    "scoala": "LICEUL DEMO GAMA",
+    "specializare": "Specializare C noua",
+    "total": 2,
+    "media": null
+  }
+}

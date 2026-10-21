@@ -21,3 +21,6 @@ Thumbs.db
 .vscode/
 .claude/
 scratch/
+
+# Generated release archives
+dist/

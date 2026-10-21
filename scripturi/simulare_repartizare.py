@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
 """
 Simulează repartizarea computerizată ca să estimezi UNDE va ateriza copilul.
 
