@@ -42,14 +42,17 @@ portalul oficial pentru ierarhia și rezultatele anului curent. Dacă un instrum
 nu poate descărca documentele, cere încărcarea **documentelor publice** de către
 familie; nu cere dosarul copilului. Nu ocoli restricțiile de acces ale site-urilor.
 
-În ZIP sunt trei agregate, descrise în [date_istorice/README.md](date_istorice/README.md):
+În ZIP sunt patru agregate, descrise în [date_istorice/README.md](date_istorice/README.md):
 praguri generale 2025, ancore de ierarhie 2025–2026 și agregate CES 2024–2026.
 Nu există în pachet un set complet de praguri generale 2024–2026.
 Agregatele CES au acoperire incompletă și nu înlocuiesc totalurile oficiale.
 
-Istoricul BAC vechi din depozit conține erori de parsare și nu este în ZIP. Obține
-indicatorii pentru școli din surse actuale, notează URL-ul/anul și verifică valorile.
-Nici o medie aflată în intervalul 0–10 nu este automat corectă.
+Istoricul BAC corectat din pachet acoperă 82 de licee și anii 2018–2026;
+vezi [sursele pe școală](date_istorice/bac_provenienta.json). Generatorul nou citește
+coloana „Medie Bac” după antet, verifică numele liceului și respinge valori
+imposibile. Folosește-l ca reper istoric, nu ca dovadă definitivă: verifică la
+sursa actuală orice indicator folosit în decizia finală. Nu extrapola la liceele
+care nu apar în set.
 
 ## 3. Planul de școlarizare
 

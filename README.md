@@ -4,8 +4,8 @@ Ghiduri în română, agregate istorice și scripturi Python opționale pentru
 organizarea opțiunilor de admitere la liceu în București. Poți citi ghidurile
 fără programare și le poți folosi cu un asistent AI.
 
-**[Descarcă pachetul de început — 21 octombrie 2026](https://github.com/zandaulion/admitere-liceu-kit/releases/download/v2026.10.21/Admitere-Liceu-Kit-2026-10-21.zip)**
-· [Note și SHA-256](https://github.com/zandaulion/admitere-liceu-kit/releases/tag/v2026.10.21)
+**[Descarcă pachetul de început — 21 octombrie 2026](https://github.com/zandaulion/admitere-liceu-kit/releases/download/v2026.10.21.1/Admitere-Liceu-Kit-2026-10-21.1.zip)**
+· [Note și SHA-256](https://github.com/zandaulion/admitere-liceu-kit/releases/tag/v2026.10.21.1)
 
 Dezarhivează ZIP-ul și deschide [START.html](START.html) în browser. Pagina
 explică ordinea de citire și conținutul; nu încarcă date și nu cere instalare.
@@ -38,7 +38,7 @@ Vezi [SURSE_2027.md](SURSE_2027.md) pentru surse și lista de verificare.
 | --- | --- |
 | Trei ghiduri și lista surselor | Pregătire, comparație și verificarea opțiunilor |
 | [modele/](modele/) | CSV-uri pentru opțiuni și termene; JSON-uri sintetice pentru simulator |
-| [date_istorice/](date_istorice/) | 405 coduri și praguri generale **2025**, ancore de ierarhie **2025–2026**, agregate CES **2024–2026** |
+| [date_istorice/](date_istorice/) | 405 coduri și praguri generale **2025**, ancore de ierarhie **2025–2026**, agregate CES **2024–2026** și medii/rate BAC **2018–2026** pentru 82 de licee |
 | [scripturi/](scripturi/) | Extragere PDF, interpolare și simulare exploratorie |
 | [SCRIPTURI.md](SCRIPTURI.md) | Instalare și exemple offline; Python 3.12+ doar pentru scripturi |
 | [DISTRIBUTIE.md](DISTRIBUTIE.md) | Conținut, reproducerea arhivei și verificarea SHA-256 |
@@ -47,11 +47,16 @@ Datele istorice sunt context, nu predicții sau coduri de înscriere pentru 2027
 CES are acoperire incompletă; [proveniența și limitele](date_istorice/README.md)
 fac parte din pachet. Testele structurale nu verifică independent fiecare valoare.
 
-**Nu sunt incluse în ZIP:** PDF-ul și XLSX-ul originale, generatoarele de date
-istorice și istoricul BAC existent în depozit. Istoricul BAC are erori de parsare:
-96 din 654 de rânduri au medii în afara intervalului 0–10. Nu-l folosi pentru
-decizii; nici valorile care par valide nu au fost reverificate. Consultă sursele
-publice actuale pentru BAC. Fișierele vechi sunt păstrate în depozit pentru audit.
+**Corecție BAC:** setul anterior avea 96 de medii în afara intervalului 0–10,
+alte 24 greșite dar aparent valide și două valori lipsă. Această ediție a extras explicit coloana
+„Medie Bac” din tabelele publice [PlusEdu](https://www.plusedu.ro/), a verificat
+identitatea fiecărei școli și a adăugat 2019. Rezultatul acoperă 82 de licee ×
+9 ani (738 de înregistrări). [Proveniența pe școală](date_istorice/bac_provenienta.json)
+și limitele sunt documentate. Verifică din nou cifrele la sursă înainte de decizii:
+site-ul poate corecta datele, iar alte licee lipsesc din acest set.
+
+**Nu sunt incluse în ZIP:** PDF-ul și XLSX-ul originale și generatorul istoric CES.
+Nu încărca fișiere cu candidați ori documente personale în Issues sau într-un chat.
 
 ## Confidențialitate
 
@@ -71,7 +76,8 @@ păstrează drepturile aplicabile; includerea lor nu le relicențiază automat.
 
 Romanian-language starter pack for Bucharest high-school admissions planning.
 Download the dated ZIP, extract it and open `START.html`. It includes guides,
-synthetic templates, historical aggregates and optional Python tools. Current
+synthetic templates, historical aggregates including corrected 2018–2026 school-level BAC results,
+source links, and optional Python tools. Current
 official rules take precedence; model results are not admission probabilities.
 [Public overview](https://zandaulion.com/admitere.html).
 

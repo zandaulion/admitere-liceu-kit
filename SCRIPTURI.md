@@ -40,8 +40,23 @@ formatul și disponibilitatea lui se pot schimba. `cauta` poate traversa multe
 pagini și afișează rezultate individuale: preferă căutarea manuală locală și nu
 publica ieșirea. Testele pachetului folosesc exclusiv date sintetice, fără rețea.
 
-## Date istorice excluse
+## Istoricul BAC
 
-Generatoarele istorice, PDF-ul și XLSX-ul originale și setul BAC vechi nu sunt în
-ZIP. Generatorul BAC și datele sale din depozit au erori cunoscute; simpla
-rerulare nu garantează corectitudinea. Vezi [date_istorice/README.md](date_istorice/README.md).
+`date_istorice/bac_istoric_licee.json` conține 738 de rânduri de școală/an,
+verificate față de tabelele publice PlusEdu la data din
+[bac_provenienta.json](date_istorice/bac_provenienta.json). Fișierul cu proveniența
+indică pagina exactă a fiecăruia dintre cele 82 de licee.
+
+Pentru a reface setul de date pe rețea, din folderul pachetului:
+
+```bash
+python date_istorice/generare_bac_din_bacplus.py \
+  --output bac-refacut.json --provenance bac-surse-refacute.json --errors bac-erori.json
+```
+
+Generatorul verifică antetele tabelului, identitatea școlii, anii și intervalele
+valorilor; dacă pagina se schimbă sau o școală nu se potrivește, raportează
+eroarea și iese cu cod nenul. Nu publica rezultatele fără o nouă verificare.
+Setul este limitat la liceele deja prezente în versiunea anterioară, nu la
+întreaga ofertă. PDF-ul și XLSX-ul istorice și generatorul CES nu sunt în ZIP.
+Vezi [date_istorice/README.md](date_istorice/README.md).

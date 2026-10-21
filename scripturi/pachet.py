@@ -8,7 +8,7 @@ from pathlib import Path
 import re
 import zipfile
 
-EDITION = "2026-10-21"
+EDITION = "2026-10-21.1"
 PREFIX = "Admitere-Liceu-Kit-" + EDITION
 FILES = (
     "README.md", "START.html", "00_CITESTE_MAI_INTAI.md",
@@ -19,9 +19,11 @@ FILES = (
     "date_istorice/README.md", "date_istorice/praguri_2025_din_brosura2026.json",
     "date_istorice/ierarhie_ancore_2025_2026.json",
     "date_istorice/ces_praguri_2024_2025_2026.json",
+    "date_istorice/bac_istoric_licee.json", "date_istorice/bac_provenienta.json",
+    "date_istorice/generare_bac_din_bacplus.py",
     "scripturi/ierarhie.py", "scripturi/parse_brosura.py",
     "scripturi/simulare_repartizare.py", "scripturi/pachet.py",
-    "tests/test_starter.py",
+    "tests/test_starter.py", "tests/test_bac.py",
 )
 
 

@@ -9,11 +9,14 @@ Păstrează anul și ruta lângă fiecare prag. Verificările structurale ale ed
 | `praguri_2025_din_brosura2026.json` | 405 coduri, locuri și praguri generale 2025, extrase din broșura ISMB 2026 |
 | `ierarhie_ancore_2025_2026.json` | Ancore poziție–notă: 93 pentru 2025 și 84 pentru 2026, din indexul portalului de ierarhie |
 | `ces_praguri_2024_2025_2026.json` | Praguri și numărători per școală × specializare din listele CES ISMB; numai agregate |
+| `bac_istoric_licee.json` | Medii BAC și rate de promovare agregate la nivel de liceu, 2018–2026, din tabelele publice PlusEdu/BacPlus |
+| `bac_provenienta.json` | Data verificării și URL-ul paginii fiecăruia dintre cele 82 de licee |
 
 Puncte de pornire pentru surse: [ISMB](http://ismb.edu.ro/index.php/admitere)
 și [portalul de admitere](https://admitere.edu.ro/). Căile și documentele se pot
-schimba. Datele istorice provin din depozitul existent; ediția nu le reface și nu
-pretinde că fiecare valoare a fost reconfirmată online.
+schimba. Primele trei seturi provin din depozitul existent și nu au fost reverificate
+integral online. Istoricul BAC a fost refăcut în această ediție din tabelele
+identificate prin antet și școală; sursa poate corecta ulterior valorile.
 
 ## Praguri generale și ancore
 
@@ -46,17 +49,32 @@ Nu sunt incluse coduri de candidat, școli de proveniență, diagnostice sau lis
 individuale. Nu încerca să identifici candidați din grupuri mici și nu redistribui
 PDF-uri cu rânduri individuale în rapoarte de eroare.
 
+## Istoricul BAC corectat
+
+Setul vechi avea **654** de înregistrări: 96 de medii peste 10, alte 24 medii
+greșite dar între 0 și 10, două medii lipsă și niciun rând pentru 2019. Cauza
+principală era identificarea coloanei după o poziție națională numerică, nu
+după antetul „Medie Bac”.
+
+La **21 octombrie 2026**, am citit tabelele publice PlusEdu/BacPlus pentru
+fiecare dintre cele **82 de licee** existente în set și am verificat că titlul
+paginii corespunde numelui liceului. Noul set are **738** de înregistrări
+(82 × 9 ani, 2018–2026). Mediile sunt în intervalul 0–10 și ratele 0–100%;
+valorile sunt cele afișate de sursă la data verificării, nu date oficiale
+recalculate independent. `bac_provenienta.json` listează pagina fiecărei școli.
+Statisticile sursei exclud absolvenții din promoțiile anterioare. Lipsesc
+licee neidentificate în versiunea inițială. Sursa poate revizui cifrele,
+iar compararea liceelor are și alte limite decât media și rata BAC.
+
+Generatorul `generare_bac_din_bacplus.py` este inclus pentru refacere. Citește
+numai tabelul istoric cu antete explicite și agregate pe școală; nu descarcă
+rânduri individuale de candidați. Testele folosesc doar HTML sintetic.
+
 ## Fișiere păstrate numai în depozit, excluse din starter ZIP
 
-- `bac_istoric_licee.json`: **nefiabil, nu folosi pentru decizii**. La verificarea
-  ediției, 96 din 654 de rânduri au `medie_bac` în afara intervalului 0–10.
-  Alte valori aparent valide pot fi tot câmpuri parsate greșit. Datele provin
-  din bacplus.ro, iar generatorul existent trebuie reparat și rezultatele
-  reverificate înainte de orice reutilizare.
 - `brosura_2026_originala.pdf` și `locuri_libere_2026.xlsx`: documente istorice
-  sursă; nu sunt incluse în pachetul destinat familiilor. Obține documentele
-  curente direct din sursele oficiale.
-- `generare_*.py`: unelte istorice de reproducere; nu fac parte din pachet.
+  sursă; obține documentele curente direct din sursele oficiale.
+- `generare_ces_din_pdf.py`: unealtă istorică pentru sursa CES, exclusă.
 
 Datele și documentele surselor terțe își păstrează drepturile aplicabile.
 Licența GPL a codului original nu relicențiază automat materialele terților.

@@ -37,8 +37,9 @@ Nu transforma pragul istoric într-un prag garantat pentru anul viitor.
 ## Înainte de examen
 
 1. Înlocuiește oferta istorică cu broșura anului curent și aplică erata.
-2. Verifică sursele pentru indicatorii BAC pe mai mulți ani; istoricul BAC vechi
-   din depozit este exclus din ZIP deoarece conține erori de parsare.
+2. Verifică sursele pentru indicatorii BAC pe mai mulți ani. Setul din pachet
+   a fost corectat și are URL-uri pe școală, dar acoperă numai 82 de licee și
+   poate fi revizuit de sursă.
 3. Confirmă eligibilitatea pentru fiecare rută și eventualele probe/echivalări.
 4. Completează datele exacte în calendar din ordinul final și procedurile locale.
 5. Pregătește documentele numai în folderul privat al familiei; notează în tabel

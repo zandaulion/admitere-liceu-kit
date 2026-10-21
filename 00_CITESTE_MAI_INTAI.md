@@ -56,7 +56,7 @@ unui asistent AI.
 6. Confirmă condițiile oricărei etape ulterioare, inclusiv efectul asupra locului
    deja obținut. Nu presupune că o cerere de redistribuire păstrează automat locul.
 7. Verifică sursa indicatorilor BAC și naveta pentru lista scurtă. Istoricul BAC
-   vechi din depozit are erori și este exclus din ZIP.
+   corectat din pachet are surse pe școală, dar acoperire limitată.
 
 ## 5. Ce pot spune datele și simularea
 
